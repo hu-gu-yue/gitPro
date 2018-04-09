@@ -1,0 +1,2596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="441de4e1-4780-425f-8df3-6b6dbc4a014b" name="Default" comment="搭建平台" />
+    <list id="629f27cd-ca5b-4fea-8c3c-407e6592e3fa" name="Failed commit: Default" comment="开发活动列表页面" />
+    <list id="dfcad1c3-3e3b-4d77-ad9f-eb9d8866c817" name="Failed commit: Default (2)" comment="修改图标大小样式" />
+    <ignored path="poseidon.web.muses.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../poseidon.web.muses.db/target/" />
+    <ignored path="$PROJECT_DIR$/../poseidon.lib.alipay/target/" />
+    <ignored path="$PROJECT_DIR$/../poseidon.lib.core/target/" />
+    <ignored path="$PROJECT_DIR$/../poseidon.service.apollo/target/" />
+    <ignored path="$PROJECT_DIR$/../poseidon.web.admin/target/" />
+    <ignored path="$PROJECT_DIR$/../poseidon.web.mobile/target/" />
+    <ignored path="$PROJECT_DIR$/../poseidon.web.server.act/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/../poseidon.web.server.tribe/target/" />
+    <ignored path="$PROJECT_DIR$/../poseidon.web.server.user/target/" />
+    <ignored path="$PROJECT_DIR$/spring-websocket-test/target/" />
+    <ignored path="E:/software/spring-websocket-test-master/target/" />
+    <ignored path="$PROJECT_DIR$/../poseidon.app.service/target/" />
+    <ignored path="F:/../../structure/trunk/poseidon.lib.core/target/" />
+    <ignored path="F:/../../structure/trunk/poseidon.web.server.destination/target/" />
+    <ignored path="F:/../../structure/trunk/poseidon.web.server.strategy/target/" />
+    <ignored path="$PROJECT_DIR$/../poseidon.hezhubo.core/target/" />
+    <ignored path="$PROJECT_DIR$/../poseidon.hezhubo.db/target/" />
+    <ignored path="$PROJECT_DIR$/../poseidon.zhdj.db/target/" />
+    <ignored path="$PROJECT_DIR$/../poseidon.zhdj.core/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="poseidon.web.muses" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CompeteVideosRankTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/poseidon/zhdj/common/task/CompeteVideosRankTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZhiboController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/poseidon/zhdj/controller/zhdj/ZhiboController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.08095238">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VideoModel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/video/model/VideoModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#1365#1366#0" expanded="false" />
+                <element signature="e#1398#1399#0" expanded="false" />
+                <element signature="e#1451#1452#0" expanded="false" />
+                <element signature="e#1495#1496#0" expanded="false" />
+                <element signature="e#1523#1524#0" expanded="false" />
+                <element signature="e#1549#1550#0" expanded="false" />
+                <element signature="e#1585#1586#0" expanded="false" />
+                <element signature="e#1615#1616#0" expanded="false" />
+                <element signature="e#1644#1645#0" expanded="false" />
+                <element signature="e#1671#1672#0" expanded="false" />
+                <element signature="e#1709#1710#0" expanded="false" />
+                <element signature="e#1741#1742#0" expanded="false" />
+                <element signature="e#1776#1777#0" expanded="false" />
+                <element signature="e#1806#1807#0" expanded="false" />
+                <element signature="e#1853#1854#0" expanded="false" />
+                <element signature="e#1891#1892#0" expanded="false" />
+                <element signature="e#1924#1925#0" expanded="false" />
+                <element signature="e#1953#1954#0" expanded="false" />
+                <element signature="e#1988#1989#0" expanded="false" />
+                <element signature="e#2019#2020#0" expanded="false" />
+                <element signature="e#2067#2068#0" expanded="false" />
+                <element signature="e#2107#2108#0" expanded="false" />
+                <element signature="e#2151#2152#0" expanded="false" />
+                <element signature="e#2187#2188#0" expanded="false" />
+                <element signature="e#2219#2220#0" expanded="false" />
+                <element signature="e#2247#2248#0" expanded="false" />
+                <element signature="e#2289#2290#0" expanded="false" />
+                <element signature="e#2353#2354#0" expanded="false" />
+                <element signature="e#2384#2385#0" expanded="false" />
+                <element signature="e#2411#2412#0" expanded="false" />
+                <element signature="e#2451#2452#0" expanded="false" />
+                <element signature="e#2512#2513#0" expanded="false" />
+                <element signature="e#2542#2543#0" expanded="false" />
+                <element signature="e#2568#2569#0" expanded="false" />
+                <element signature="e#2606#2607#0" expanded="false" />
+                <element signature="e#2664#2665#0" expanded="false" />
+                <element signature="e#2697#2698#0" expanded="false" />
+                <element signature="e#2725#2726#0" expanded="false" />
+                <element signature="e#2768#2769#0" expanded="false" />
+                <element signature="e#2802#2803#0" expanded="false" />
+                <element signature="e#2836#2837#0" expanded="false" />
+                <element signature="e#2865#2866#0" expanded="false" />
+                <element signature="e#2910#2911#0" expanded="false" />
+                <element signature="e#2946#2947#0" expanded="false" />
+                <element signature="e#2976#2977#0" expanded="false" />
+                <element signature="e#3004#3005#0" expanded="false" />
+                <element signature="e#3044#3045#0" expanded="false" />
+                <element signature="e#3078#3079#0" expanded="false" />
+                <element signature="e#3108#3109#0" expanded="false" />
+                <element signature="e#3136#3137#0" expanded="false" />
+                <element signature="e#3176#3177#0" expanded="false" />
+                <element signature="e#3210#3211#0" expanded="false" />
+                <element signature="e#3240#3241#0" expanded="false" />
+                <element signature="e#3266#3267#0" expanded="false" />
+                <element signature="e#3304#3305#0" expanded="false" />
+                <element signature="e#3362#3363#0" expanded="false" />
+                <element signature="e#3393#3394#0" expanded="false" />
+                <element signature="e#3419#3420#0" expanded="false" />
+                <element signature="e#3458#3459#0" expanded="false" />
+                <element signature="e#3488#3489#0" expanded="false" />
+                <element signature="e#3525#3526#0" expanded="false" />
+                <element signature="e#3557#3558#0" expanded="false" />
+                <element signature="e#3608#3609#0" expanded="false" />
+                <element signature="e#3650#3651#0" expanded="false" />
+                <element signature="e#3687#3688#0" expanded="false" />
+                <element signature="e#3719#3720#0" expanded="false" />
+                <element signature="e#3770#3771#0" expanded="false" />
+                <element signature="e#3812#3813#0" expanded="false" />
+                <element signature="e#3849#3850#0" expanded="false" />
+                <element signature="e#3881#3882#0" expanded="false" />
+                <element signature="e#3932#3933#0" expanded="false" />
+                <element signature="e#3974#3975#0" expanded="false" />
+                <element signature="e#4009#4010#0" expanded="false" />
+                <element signature="e#4040#4041#0" expanded="false" />
+                <element signature="e#4088#4089#0" expanded="false" />
+                <element signature="e#4128#4129#0" expanded="false" />
+                <element signature="e#4162#4163#0" expanded="false" />
+                <element signature="e#4192#4193#0" expanded="false" />
+                <element signature="e#4226#4227#0" expanded="false" />
+                <element signature="e#4255#4256#0" expanded="false" />
+                <element signature="e#4300#4301#0" expanded="false" />
+                <element signature="e#4336#4337#0" expanded="false" />
+                <element signature="e#4370#4371#0" expanded="false" />
+                <element signature="e#4399#4400#0" expanded="false" />
+                <element signature="e#4444#4445#0" expanded="false" />
+                <element signature="e#4480#4481#0" expanded="false" />
+                <element signature="e#4602#4603#0" expanded="false" />
+                <element signature="e#4634#4635#0" expanded="false" />
+                <element signature="e#4685#4686#0" expanded="false" />
+                <element signature="e#4727#4728#0" expanded="false" />
+                <element signature="e#4765#4766#0" expanded="false" />
+                <element signature="e#4799#4800#0" expanded="false" />
+                <element signature="e#4853#4854#0" expanded="false" />
+                <element signature="e#4899#4900#0" expanded="false" />
+                <element signature="e#4935#4936#0" expanded="false" />
+                <element signature="e#4966#4967#0" expanded="false" />
+                <element signature="e#5015#5016#0" expanded="false" />
+                <element signature="e#5055#5056#0" expanded="false" />
+                <element signature="e#5094#5095#0" expanded="false" />
+                <element signature="e#5128#5129#0" expanded="false" />
+                <element signature="e#5183#5184#0" expanded="false" />
+                <element signature="e#5229#5230#0" expanded="false" />
+                <element signature="e#5263#5264#0" expanded="false" />
+                <element signature="e#5292#5293#0" expanded="false" />
+                <element signature="e#5337#5338#0" expanded="false" />
+                <element signature="e#5373#5374#0" expanded="false" />
+                <element signature="e#5410#5411#0" expanded="false" />
+                <element signature="e#5442#5443#0" expanded="false" />
+                <element signature="e#5493#5494#0" expanded="false" />
+                <element signature="e#5535#5536#0" expanded="false" />
+                <element signature="e#5576#5577#0" expanded="false" />
+                <element signature="e#5612#5613#0" expanded="false" />
+                <element signature="e#5671#5672#0" expanded="false" />
+                <element signature="e#5721#5722#0" expanded="false" />
+                <element signature="e#5758#5759#0" expanded="false" />
+                <element signature="e#5790#5791#0" expanded="false" />
+                <element signature="e#5841#5842#0" expanded="false" />
+                <element signature="e#5883#5884#0" expanded="false" />
+                <element signature="e#5914#5915#0" expanded="false" />
+                <element signature="e#5941#5942#0" expanded="false" />
+                <element signature="e#5981#5982#0" expanded="false" />
+                <element signature="e#6013#6014#0" expanded="false" />
+                <element signature="e#6048#6049#0" expanded="false" />
+                <element signature="e#6079#6080#0" expanded="false" />
+                <element signature="e#6127#6128#0" expanded="false" />
+                <element signature="e#6167#6168#0" expanded="false" />
+                <element signature="e#6206#6207#0" expanded="false" />
+                <element signature="e#6240#6241#0" expanded="false" />
+                <element signature="e#6295#6296#0" expanded="false" />
+                <element signature="e#6341#6342#0" expanded="false" />
+                <element signature="e#6379#6380#0" expanded="false" />
+                <element signature="e#6412#6413#0" expanded="false" />
+                <element signature="e#6465#6466#0" expanded="false" />
+                <element signature="e#6509#6510#0" expanded="false" />
+                <element signature="e#6543#6544#0" expanded="false" />
+                <element signature="e#6575#6576#0" expanded="false" />
+                <element signature="e#6623#6624#0" expanded="false" />
+                <element signature="e#6665#6666#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VideoServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/video/service/impl/VideoServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+              <folding>
+                <element signature="e#1379#1380#0" expanded="false" />
+                <element signature="e#1433#1434#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GlobalConstants.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/global/GlobalConstants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="F:/gitResp" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/db/PageTool.java" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/db/common/Beetl/BeetlAct.java" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/db/common/vo/PageVo.java" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/db/common/vo/PageEasyUIVo.java" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/db/common/vo/ResponseVo.java" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/db/common/Beetl/BeetlImg.java" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/db/common/ShiroPassword.java" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/db/common/SearchKey.java" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/db/common/Page.java" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/db/common/Constants.java" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/db/common/BaseModel.java" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/db/valid/service/ValidService.java" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/db/valid/vo/ValidVo.java" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/db/valid/serviceImpl/RedisValid.java" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/exception/BusinessException.java" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/exception/ParameterException.java" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/redis/RedisUtil.java" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/db/common/SpringUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/poseidon/hezhubo/common/task/ActUpdateStatusJob.java" />
+        <option value="$PROJECT_DIR$/src/main/java/poseidon/hezhubo/common/util/Constant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/poseidon/hezhubo/controller/BaseController.java" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/db/common/Beetl/BeetlConfig.java" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/db/common/shiro/ShiroToken.java" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/db/common/shiro/ShiroDbRealm.java" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/db/common/shiro/RememberAuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/db/common/redis/serviceImpl/RedisServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/db/common/Beetl/BeetlUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-shiro.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-mybatis.xml" />
+        <option value="$PROJECT_DIR$/.project" />
+        <option value="$PROJECT_DIR$/.idea/.name" />
+        <option value="$PROJECT_DIR$/src/main/resources/config.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mailConfig.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/../poseidon.zhdj.core/src/main/java/weixin/WeixinpayConfig.java" />
+        <option value="$PROJECT_DIR$/../poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/video/service/impl/ShowVideosServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/video/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/poseidon/zhdj/controller/zhdj/ZhiboController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/poseidon/zhdj/controller/wap/zhdj/ResultController.java" />
+        <option value="$PROJECT_DIR$/../poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/video/model/VideoModel.java" />
+        <option value="$PROJECT_DIR$/../poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/video/service/VideoService.java" />
+        <option value="$PROJECT_DIR$/../poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/global/GlobalConstants.java" />
+        <option value="$PROJECT_DIR$/../poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/video/service/impl/VideoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/poseidon/zhdj/controller/synchronize/ZiyuanSyn.java" />
+        <option value="$PROJECT_DIR$/../poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/video/dao/VideoModelMapper.java" />
+        <option value="$PROJECT_DIR$/../poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/video/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/poseidon/zhdj/common/task/CompeteVideosRankTask.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\APP\maven\repos" />
+        <option name="mavenHome" value="D:/APP/maven/apache-maven-3.2.1" />
+        <option name="userSettingsFile" value="D:\APP\maven\apache-maven-3.2.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1932" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="false" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="1" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Changed Files" />
+        <subPane subId="Project Files" />
+        <subPane subId="Default" />
+        <subPane subId="Tests">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="poseidon.zhdj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.41264367" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/gitResp" />
+    <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
+    <property name="SearchEverywhereHistoryKey" value="HomeVisitsModel&#9;FILE&#9;file://E:/svn/poseidon/zhdj/trunk/poseidon.zhdj.db/src/main/resources/mapping/qcj/HomeVisitsModelMapper.xml&#10;CompeteVideosRankTask&#9;FILE&#9;file://E:/svn/poseidon/zhdj/trunk/poseidon.zhdj/src/main/java/poseidon/zhdj/common/task/CompeteVideosRankTask.java&#10;UserServiceImpl&#9;FILE&#9;file://E:/svn/poseidon/zhdj/trunk/poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/video/service/impl/UserServiceImpl.java&#10;HomeVisitsServiceImpl.java&#9;FILE&#9;file://E:/svn/poseidon/zhdj/trunk/poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/video/service/impl/HomeVisitsServiceImpl.java&#10;StarServiceImpl&#9;FILE&#9;file://E:/svn/poseidon/zhdj/trunk/poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/qcj/service/impl/StarServiceImpl.java&#10;ShowVideosServiceImpl&#9;PSI&#9;JAVA://poseidon.zhdj.db.video.service.impl.ShowVideosServiceImpl&#10;BeetlUtil.java&#9;FILE&#9;file://D:/Zjyou/poseidon/hezhubo/trunk/poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/db/common/Beetl/BeetlUtil.java&#10;RedisServiceImpl.java&#9;FILE&#9;file://D:/Zjyou/poseidon/hezhubo/trunk/poseidon.hezhubo.db/src/main/java/poseidon/hezhubo/db/common/redis/serviceImpl/RedisServiceImpl.java&#10;myshare.js&#9;FILE&#9;file://D:/Zjyou/poseidon/new/trunk/poseidon.web.muses/src/main/webapp/style0/js/common/myshare.js&#10;share.js&#9;FILE&#9;file://D:/Zjyou/poseidon/new/trunk/poseidon.web.mobile/src/main/webapp/AngularJS/node_modules/rxjs/src/add/operator/share.js.map&#10;BitVector&#9;PSI&#9;JAVA://org.apache.lucene.util.BitVector&#10;ResetPasswordController.java&#9;FILE&#9;file://D:/Zjyou/poseidon/new/trunk/poseidon.web.mobile/src/main/java/poseidon/web/mobile/controller/user/ResetPasswordController.java&#10;css.css&#9;FILE&#9;file://D:/Zjyou/poseidon/new/trunk/poseidon.web.muses/src/main/webapp/style0/css/common/css.css&#10;jquery.spinner.js&#9;FILE&#9;file://D:/Zjyou/poseidon/new/trunk/poseidon.web.muses/src/main/webapp/style0/pay-js/jquery.spinner.js&#10;actShow.js&#9;FILE&#9;file://D:/Zjyou/poseidon/new/trunk/poseidon.web.muses/src/main/webapp/style0/js/act/actShow.js&#10;actTicketTypeModelMapper.xml&#9;FILE&#9;file://D:/Zjyou/poseidon/new/trunk/poseidon.web.muses.db/src/main/resources/mapping/act/ActTicketTypeModelMapper.xml&#10;StrategyController.java&#9;FILE&#9;file://D:/Zjyou/poseidon/new/trunk/poseidon.web.muses/src/main/java/poseidon/web/muses/controller/strategy/StrategyController.java&#10;strategyList.html&#9;FILE&#9;file://D:/Zjyou/poseidon/new/trunk/poseidon.web.mobile/src/main/webapp/html/strategy/strategyList.html&#10;pay.js&#9;FILE&#9;file://D:/Zjyou/poseidon/new/trunk/poseidon.web.muses/src/main/webapp/style0/js/act/pay.js&#10;reminder&#9;FILE&#9;file://D:/Zjyou/poseidon/new/trunk/poseidon.web.muses/src/main/webapp/html/act/pay-reminder.html&#10;pic-404b.png&#9;FILE&#9;file://D:/Zjyou/poseidon/new/trunk/poseidon.web.muses/src/main/webapp/style0/images/search/pic-404b.png&#10;new-user.css&#9;FILE&#9;file://D:/Zjyou/poseidon/new/trunk/poseidon.web.muses/src/main/webapp/style0/css/user/new-user.css&#10;book.js&#9;FILE&#9;file://D:/Zjyou/poseidon/new/trunk/poseidon.web.muses/src/main/webapp/style0/js/camp/book.js&#10;head-footer.css&#9;FILE&#9;file://D:/Zjyou/poseidon/new/trunk/poseidon.web.muses/src/main/webapp/style0/css/head-footer.css&#10;globalact.java&#9;FILE&#9;file://D:/Zjyou/poseidon/new/trunk/poseidon.web.muses.db/src/main/java/poseidon/web/muses/db/global/GlobalAct.java&#10;strategyModelMapper.xml&#9;FILE&#9;file://D:/Zjyou/poseidon/new/trunk/poseidon.web.muses.db/src/main/resources/mapping/strategy/StrategyModelMapper.xml&#10;content.html&#9;FILE&#9;file://D:/Zjyou/poseidon/new/trunk/poseidon.web.mobile/src/main/webapp/html/strategy/content.html&#10;reg.js&#9;FILE&#9;file://D:/Zjyou/poseidon/new/trunk/poseidon.web.muses/src/main/webapp/style0/js/user/reg.js&#10;global&#9;FILE&#9;file://D:/Zjyou/structure/trunk/poseidon.web.muses.db/src/main/java/poseidon/web/muses/db/global/GlobalAct.java&#10;globalact&#9;FILE&#9;file://D:/Zjyou/structure/trunk/poseidon.web.muses.db/src/main/java/poseidon/web/muses/db/global/GlobalAct.java&#10;ActAdminModelMapper.xml&#9;FILE&#9;file://D:/Zjyou/structure/trunk/poseidon.web.muses.db/src/main/resources/mapping/act/ActAdminModelMapper.xml&#10;userExperienceHisModelMapper.xml&#9;FILE&#9;file://D:/Zjyou/structure/trunk/poseidon.web.muses.db/src/main/resources/mapping/userlevel/UserExperienceHisModelMapper.xml&#10;KeyOperationsModelMapper.xml&#9;FILE&#9;file://D:/Zjyou/structure/trunk/poseidon.web.muses.db/src/main/resources/mapping/userlevel/KeyOperationsModelMapper.xml&#10;UserHonorModelMapper.xml&#9;FILE&#9;file://D:/Zjyou/structure/trunk/poseidon.web.muses.db/src/main/resources/mapping/userhonor/UserHonorModelMapper.xml&#10;UserAchievementHisModelMapper.xml&#9;FILE&#9;file://D:/Zjyou/structure/trunk/poseidon.web.muses.db/src/main/resources/mapping/userhonor/UserAchievementHisModelMapper.xml&#10;userModelMapper.xml&#9;FILE&#9;file://D:/Zjyou/structure/trunk/poseidon.web.muses.db/src/main/resources/mapping/user/UserModelMapper.xml&#10;userhonormapper.xml&#9;FILE&#9;file://D:/Zjyou/structure/trunk/poseidon.web.muses.db/src/main/resources/mapping/userhonor/UserHonorModelMapper.xml&#10;actmodel&#9;FILE&#9;file://D:/Zjyou/structure/trunk/poseidon.web.muses.db/src/main/resources/mapping/act/ActModelMapper.xml&#10;actmodelmapper&#9;FILE&#9;file://D:/Zjyou/structure/trunk/poseidon.web.muses.db/src/main/resources/mapping/act/ActModelMapper.xml&#10;UserExperienceHisModelMapper.xml&#9;FILE&#9;file://D:/Zjyou/structure/trunk/poseidon.web.muses.db/src/main/resources/mapping/userlevel/UserExperienceHisModelMapper.xml&#10;UserLevelModelMapper.xml&#9;FILE&#9;file://D:/Zjyou/structure/trunk/poseidon.web.muses.db/src/main/resources/mapping/userlevel/UserLevelModelMapper.xml&#10;actmodemapp&#9;FILE&#9;file://D:/Zjyou/structure/trunk/poseidon.web.muses.db/src/main/resources/mapping/act/ActModelMapper.xml&#10;act&#9;FILE&#9;file://D:/Zjyou/structure/trunk/poseidon.web.server.act/src/main/java/poseidon/web/muses/db/act/serviceImpl/ActServiceImpl.java&#10;ActServiceImpl.java&#9;FILE&#9;file://D:/Zjyou/structure/trunk/poseidon.web.server.act/src/main/java/poseidon/web/muses/db/act/serviceImpl/ActServiceImpl.java&#10;header.html&#9;FILE&#9;file://D:/Zjyou/structure/trunk/poseidon.web.muses/src/main/webapp/html/common/header.html&#10;actmodelmapper.xml&#9;FILE&#9;file://D:/Zjyou/structure/trunk/poseidon.web.muses.db/src/main/resources/mapping/act/ActModelMapper.xml&#10;zjyoutool.js&#9;FILE&#9;file://D:/Zjyou/structure/trunk/poseidon.web.muses/src/main/webapp/style0/zjyoutool/js/zjyouTool.js&#10;remind&#9;FILE&#9;file://D:/Zjyou/structure/trunk/poseidon.web.muses/src/main/webapp/html/act/pay-reminder.html&#10;actJoinModelMapper.xml&#9;FILE&#9;file://D:/Zjyou/structure/trunk/poseidon.web.muses.db/src/main/resources/mapping/act/ActJoinModelMapper.xml&#10;main.js&#9;FILE&#9;file://D:/Zjyou/structure/trunk/poseidon.web.admin/src/main/webapp/style0/js/common/main.js" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth0" value="163" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth1" value="167" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth2" value="168" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth3" value="45" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth4" value="158" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth5" value="1111" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder5" value="5" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth0" value="277" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth1" value="275" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth2" value="279" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth3" value="274" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth4" value="280" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth5" value="427" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder5" value="5" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\svn\poseidon\zhdj\trunk\poseidon.zhdj.db\src\main\java\poseidon\zhdj\db\video\service\impl" />
+      <recent name="E:\svn\poseidon\zhdj\trunk\poseidon.zhdj.db\src\main\java\poseidon\zhdj\db\video\service" />
+      <recent name="E:\svn\poseidon\zhdj\trunk\poseidon.zhdj.db\src\main\java\poseidon\zhdj\db\video\model" />
+      <recent name="E:\svn\poseidon\zhdj\trunk\poseidon.zhdj.db\src\main\java\poseidon\zhdj\db\video\dao" />
+      <recent name="D:\Zjyou\poseidon\hezhubo\trunk\poseidon.hezhubo\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="poseidon.web.muses.db.userlevel.serviceImpl" />
+      <recent name="poseidon.web.muses.db.global" />
+      <recent name="poseidon.web.muses.db.userhonor.serviceImpl" />
+      <recent name="poseidon.web.muses.db.userlevel" />
+      <recent name="poseidon.web.muses.db.userhonor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Zjyou\structure\trunk\poseidon.web.muses\src\main\webapp\style0\bootstrap\dist" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.zhdj_all">
+    <configuration default="false" name="TestClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="poseidon.lib.core.tool.img.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="poseidon.lib.core.tool.img.ImgTool" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="poseidon.lib.core" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestImg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="poseidon.lib.core.tool.img.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="poseidon.lib.core.tool.img.TestImg" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="poseidon.lib.core" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.59" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="poseidon.web.admin:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_poseidon_web_muses" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="3095" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../poseidon.web.muses.db/pom.xml" goal="clean install" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../poseidon.web.server.act/pom.xml" goal="clean install" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../poseidon.web.server.tribe/pom.xml" goal="clean install" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../poseidon.web.server.user/pom.xml" goal="clean install" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../poseidon.web.admin/pom.xml" goal="clean install" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="poseidon.web.muses" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="zhdj_only" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method>
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean install" />
+      </method>
+    </configuration>
+    <configuration default="false" name="zhdj_all" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method>
+        <option name="Maven.BeforeRunTask" enabled="true" file="E:\svn\poseidon\zhdj\trunk\poseidon.zhdj.core/pom.xml" goal="clean install" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="E:\svn\poseidon\zhdj\trunk\poseidon.zhdj.db/pom.xml" goal="clean install" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean install" />
+      </method>
+    </configuration>
+    <configuration default="false" name="muses_tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.36" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="poseidon.web.muses:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_poseidon_web_muses_3" />
+        <option name="DEPLOY_TOMCAT_APPS" value="true" />
+        <option name="HTTP_PORT" value="80" />
+        <option name="PRESERVE_SESSIONS" value="true" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="3095" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../poseidon.lib.core/pom.xml" goal="clean install" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../poseidon.lib.alipay/pom.xml" goal="clean install" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../poseidon.web.muses.db/pom.xml" goal="clean install" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../poseidon.web.server.act/pom.xml" goal="clean install" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../poseidon.web.server.tribe/pom.xml" goal="clean install" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../poseidon.web.server.user/pom.xml" goal="clean install" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean install" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="poseidon.web.muses:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="false" name="admin_tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.59" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="poseidon.web.admin:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_poseidon_web_muses_2" />
+        <option name="DEPLOY_TOMCAT_APPS" value="true" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="3095" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../poseidon.web.muses.db/pom.xml" goal="clean install" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../poseidon.web.server.act/pom.xml" goal="clean install" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../poseidon.web.server.tribe/pom.xml" goal="clean install" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../poseidon.web.server.user/pom.xml" goal="clean install" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../poseidon.web.admin/pom.xml" goal="clean install" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="poseidon.web.admin:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Maven.zhdj_only" />
+      <item index="1" class="java.lang.String" itemvalue="Maven.zhdj_all" />
+      <item index="2" class="java.lang.String" itemvalue="Tomcat Server.muses_tomcat" />
+      <item index="3" class="java.lang.String" itemvalue="Tomcat Server.admin_tomcat" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestClasses" />
+      <item index="5" class="java.lang.String" itemvalue="Application.TestImg" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.TestImg" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="441de4e1-4780-425f-8df3-6b6dbc4a014b" name="Default" comment="" />
+      <created>1456797807084</created>
+      <option name="number" value="Default" />
+      <updated>1456797807084</updated>
+      <workItem from="1456797816896" duration="8705000" />
+      <workItem from="1456967508991" duration="743000" />
+      <workItem from="1457348190974" duration="3425000" />
+      <workItem from="1457425264819" duration="82690000" />
+      <workItem from="1457917354508" duration="205327000" />
+      <workItem from="1459126026091" duration="11482000" />
+      <workItem from="1459156912852" duration="9655000" />
+      <workItem from="1459241505801" duration="94358000" />
+      <workItem from="1459956973046" duration="20412000" />
+      <workItem from="1460077034329" duration="79356000" />
+      <workItem from="1460681678766" duration="17619000" />
+      <workItem from="1461502211837" duration="75538000" />
+      <workItem from="1461892429320" duration="104584000" />
+      <workItem from="1462439664294" duration="133284000" />
+      <workItem from="1463014576884" duration="71383000" />
+      <workItem from="1463189447709" duration="134801000" />
+      <workItem from="1463706416401" duration="80368000" />
+      <workItem from="1464742488648" duration="82440000" />
+      <workItem from="1465353510615" duration="5763000" />
+      <workItem from="1465368190402" duration="28398000" />
+      <workItem from="1465788619852" duration="54395000" />
+      <workItem from="1466384071548" duration="27248000" />
+      <workItem from="1466473810351" duration="19953000" />
+      <workItem from="1466507041921" duration="55251000" />
+      <workItem from="1466991901810" duration="1703000" />
+      <workItem from="1467163170065" duration="17578000" />
+      <workItem from="1467334527412" duration="91594000" />
+      <workItem from="1468034517557" duration="216146000" />
+      <workItem from="1469435455985" duration="17370000" />
+      <workItem from="1470106958220" duration="16723000" />
+      <workItem from="1481785971742" duration="596000" />
+      <workItem from="1488955085049" duration="28000" />
+      <workItem from="1488955191313" duration="1629000" />
+      <workItem from="1489372942909" duration="22009000" />
+      <workItem from="1489625169022" duration="91752000" />
+      <workItem from="1490681728729" duration="15175000" />
+      <workItem from="1490935348760" duration="40000" />
+      <workItem from="1492046707838" duration="2487000" />
+      <workItem from="1492397423353" duration="1136000" />
+      <workItem from="1492478646109" duration="7401000" />
+      <workItem from="1492742715134" duration="8208000" />
+      <workItem from="1494211872517" duration="5022000" />
+      <workItem from="1523159579682" duration="697000" />
+      <workItem from="1523161981257" duration="738000" />
+      <workItem from="1523167824175" duration="32000" />
+      <workItem from="1523167894370" duration="34000" />
+      <workItem from="1523167955376" duration="136000" />
+      <workItem from="1523168284861" duration="29000" />
+      <workItem from="1523168680965" duration="856000" />
+      <workItem from="1523169661714" duration="549000" />
+      <workItem from="1523170268905" duration="1242000" />
+      <workItem from="1523171562842" duration="8027000" />
+      <workItem from="1523239959387" duration="20000" />
+      <workItem from="1523240486518" duration="677000" />
+    </task>
+    <task id="LOCAL-00420" summary="header优化">
+      <created>1469006509792</created>
+      <option name="number" value="00420" />
+      <option name="project" value="LOCAL" />
+      <updated>1469006509792</updated>
+    </task>
+    <task id="LOCAL-00421" summary="开发等级勋章需求">
+      <created>1469006737644</created>
+      <option name="number" value="00421" />
+      <option name="project" value="LOCAL" />
+      <updated>1469006737644</updated>
+    </task>
+    <task id="LOCAL-00422" summary="开发等级勋章需求">
+      <created>1469006754241</created>
+      <option name="number" value="00422" />
+      <option name="project" value="LOCAL" />
+      <updated>1469006754242</updated>
+    </task>
+    <task id="LOCAL-00423" summary="开发等级勋章需求">
+      <created>1469006958019</created>
+      <option name="number" value="00423" />
+      <option name="project" value="LOCAL" />
+      <updated>1469006958019</updated>
+    </task>
+    <task id="LOCAL-00424" summary="开发等级勋章需求">
+      <created>1469085500519</created>
+      <option name="number" value="00424" />
+      <option name="project" value="LOCAL" />
+      <updated>1469085500519</updated>
+    </task>
+    <task id="LOCAL-00425" summary="开发等级勋章需求">
+      <created>1469085525159</created>
+      <option name="number" value="00425" />
+      <option name="project" value="LOCAL" />
+      <updated>1469085525159</updated>
+    </task>
+    <task id="LOCAL-00426" summary="开发等级勋章需求">
+      <created>1469147292047</created>
+      <option name="number" value="00426" />
+      <option name="project" value="LOCAL" />
+      <updated>1469147292047</updated>
+    </task>
+    <task id="LOCAL-00427" summary="开发等级勋章需求">
+      <created>1469147336942</created>
+      <option name="number" value="00427" />
+      <option name="project" value="LOCAL" />
+      <updated>1469147336942</updated>
+    </task>
+    <task id="LOCAL-00428" summary="开发等级勋章需求">
+      <created>1469147478589</created>
+      <option name="number" value="00428" />
+      <option name="project" value="LOCAL" />
+      <updated>1469147478590</updated>
+    </task>
+    <task id="LOCAL-00429" summary="开发等级勋章需求">
+      <created>1469147788282</created>
+      <option name="number" value="00429" />
+      <option name="project" value="LOCAL" />
+      <updated>1469147788282</updated>
+    </task>
+    <task id="LOCAL-00430" summary="开发等级勋章需求">
+      <created>1469148029325</created>
+      <option name="number" value="00430" />
+      <option name="project" value="LOCAL" />
+      <updated>1469148029325</updated>
+    </task>
+    <task id="LOCAL-00431" summary="开发等级勋章需求">
+      <created>1469148409468</created>
+      <option name="number" value="00431" />
+      <option name="project" value="LOCAL" />
+      <updated>1469148409468</updated>
+    </task>
+    <task id="LOCAL-00432" summary="开发等级勋章需求">
+      <created>1469148553667</created>
+      <option name="number" value="00432" />
+      <option name="project" value="LOCAL" />
+      <updated>1469148553667</updated>
+    </task>
+    <task id="LOCAL-00433" summary="开发等级勋章需求">
+      <created>1469156587702</created>
+      <option name="number" value="00433" />
+      <option name="project" value="LOCAL" />
+      <updated>1469156587703</updated>
+    </task>
+    <task id="LOCAL-00434" summary="开发等级勋章需求">
+      <created>1469162310228</created>
+      <option name="number" value="00434" />
+      <option name="project" value="LOCAL" />
+      <updated>1469162310228</updated>
+    </task>
+    <task id="LOCAL-00435" summary="开发等级勋章需求">
+      <created>1469163097722</created>
+      <option name="number" value="00435" />
+      <option name="project" value="LOCAL" />
+      <updated>1469163097722</updated>
+    </task>
+    <task id="LOCAL-00436" summary="开发等级勋章需求">
+      <created>1469170591840</created>
+      <option name="number" value="00436" />
+      <option name="project" value="LOCAL" />
+      <updated>1469170591840</updated>
+    </task>
+    <task id="LOCAL-00437" summary="开发等级勋章需求">
+      <created>1469408073179</created>
+      <option name="number" value="00437" />
+      <option name="project" value="LOCAL" />
+      <updated>1469408073179</updated>
+    </task>
+    <task id="LOCAL-00438" summary="开发等级勋章需求">
+      <created>1469408094051</created>
+      <option name="number" value="00438" />
+      <option name="project" value="LOCAL" />
+      <updated>1469408094051</updated>
+    </task>
+    <task id="LOCAL-00439" summary="开发等级勋章需求">
+      <created>1469410084777</created>
+      <option name="number" value="00439" />
+      <option name="project" value="LOCAL" />
+      <updated>1469410084777</updated>
+    </task>
+    <task id="LOCAL-00440" summary="开发等级勋章需求">
+      <created>1469412881536</created>
+      <option name="number" value="00440" />
+      <option name="project" value="LOCAL" />
+      <updated>1469412881536</updated>
+    </task>
+    <task id="LOCAL-00441" summary="开发等级勋章需求">
+      <created>1469417644143</created>
+      <option name="number" value="00441" />
+      <option name="project" value="LOCAL" />
+      <updated>1469417644143</updated>
+    </task>
+    <task id="LOCAL-00442" summary="开发等级勋章需求">
+      <created>1469417663855</created>
+      <option name="number" value="00442" />
+      <option name="project" value="LOCAL" />
+      <updated>1469417663855</updated>
+    </task>
+    <task id="LOCAL-00443" summary="开发等级勋章需求">
+      <created>1469420168385</created>
+      <option name="number" value="00443" />
+      <option name="project" value="LOCAL" />
+      <updated>1469420168385</updated>
+    </task>
+    <task id="LOCAL-00444" summary="开发等级勋章需求">
+      <created>1469420189625</created>
+      <option name="number" value="00444" />
+      <option name="project" value="LOCAL" />
+      <updated>1469420189625</updated>
+    </task>
+    <task id="LOCAL-00445" summary="开发等级勋章需求">
+      <created>1469429894346</created>
+      <option name="number" value="00445" />
+      <option name="project" value="LOCAL" />
+      <updated>1469429894346</updated>
+    </task>
+    <task id="LOCAL-00446" summary="开发等级勋章需求">
+      <created>1469429911459</created>
+      <option name="number" value="00446" />
+      <option name="project" value="LOCAL" />
+      <updated>1469429911459</updated>
+    </task>
+    <task id="LOCAL-00447" summary="开发等级勋章需求">
+      <created>1469429932691</created>
+      <option name="number" value="00447" />
+      <option name="project" value="LOCAL" />
+      <updated>1469429932692</updated>
+    </task>
+    <task id="LOCAL-00448" summary="开发等级勋章需求">
+      <created>1469435831207</created>
+      <option name="number" value="00448" />
+      <option name="project" value="LOCAL" />
+      <updated>1469435831218</updated>
+    </task>
+    <task id="LOCAL-00449" summary="开发APP IOS版本">
+      <created>1470186633580</created>
+      <option name="number" value="00449" />
+      <option name="project" value="LOCAL" />
+      <updated>1470186633603</updated>
+    </task>
+    <task id="LOCAL-00450" summary="增加图片验证码">
+      <created>1489386459384</created>
+      <option name="number" value="00450" />
+      <option name="project" value="LOCAL" />
+      <updated>1489386459384</updated>
+    </task>
+    <task id="LOCAL-00451" summary="增加图片验证码">
+      <created>1489390694752</created>
+      <option name="number" value="00451" />
+      <option name="project" value="LOCAL" />
+      <updated>1489390694752</updated>
+    </task>
+    <task id="LOCAL-00452" summary="增加图片验证码">
+      <created>1489392018408</created>
+      <option name="number" value="00452" />
+      <option name="project" value="LOCAL" />
+      <updated>1489392018408</updated>
+    </task>
+    <task id="LOCAL-00453" summary="修改返回按钮在微信跟浏览器环境不一致的问题">
+      <created>1489639162359</created>
+      <option name="number" value="00453" />
+      <option name="project" value="LOCAL" />
+      <updated>1489639162388</updated>
+    </task>
+    <task id="LOCAL-00454" summary="getFavoriteStrategyList少了两个字段">
+      <created>1489645631724</created>
+      <option name="number" value="00454" />
+      <option name="project" value="LOCAL" />
+      <updated>1489645631724</updated>
+    </task>
+    <task id="LOCAL-00455" summary="getFavoriteStrategyList少了两个字段">
+      <created>1489646411649</created>
+      <option name="number" value="00455" />
+      <option name="project" value="LOCAL" />
+      <updated>1489646411649</updated>
+    </task>
+    <task id="LOCAL-00456" summary="getFavoriteStrategyList少了两个字段">
+      <created>1489647310555</created>
+      <option name="number" value="00456" />
+      <option name="project" value="LOCAL" />
+      <updated>1489647310555</updated>
+    </task>
+    <task id="LOCAL-00457" summary="getFavoriteStrategyList少了两个字段">
+      <created>1489648527438</created>
+      <option name="number" value="00457" />
+      <option name="project" value="LOCAL" />
+      <updated>1489648527438</updated>
+    </task>
+    <task id="LOCAL-00458" summary="修改在手机上的跳转的bug">
+      <created>1489736083372</created>
+      <option name="number" value="00458" />
+      <option name="project" value="LOCAL" />
+      <updated>1489736083372</updated>
+    </task>
+    <task id="LOCAL-00459" summary="修改在手机上的跳转的bug">
+      <created>1489973286701</created>
+      <option name="number" value="00459" />
+      <option name="project" value="LOCAL" />
+      <updated>1489973286701</updated>
+    </task>
+    <task id="LOCAL-00460" summary="修改浏览器network中的错误">
+      <created>1490150167977</created>
+      <option name="number" value="00460" />
+      <option name="project" value="LOCAL" />
+      <updated>1490150167977</updated>
+    </task>
+    <task id="LOCAL-00461" summary="解决starttime报空指针的问题">
+      <created>1490257058232</created>
+      <option name="number" value="00461" />
+      <option name="project" value="LOCAL" />
+      <updated>1490257058232</updated>
+    </task>
+    <task id="LOCAL-00462" summary="活动支付成功短信通知代码优化">
+      <created>1490258327201</created>
+      <option name="number" value="00462" />
+      <option name="project" value="LOCAL" />
+      <updated>1490258327202</updated>
+    </task>
+    <task id="LOCAL-00463" summary="手机网站活动支持票种价格为可变价格">
+      <created>1490614980605</created>
+      <option name="number" value="00463" />
+      <option name="project" value="LOCAL" />
+      <updated>1490614980605</updated>
+    </task>
+    <task id="LOCAL-00464" summary="为了支持手动修改数值后能够获取最新的值">
+      <created>1490671793475</created>
+      <option name="number" value="00464" />
+      <option name="project" value="LOCAL" />
+      <updated>1490671793475</updated>
+    </task>
+    <task id="LOCAL-00465" summary="为了支持手动修改数值后能够获取最新的值">
+      <created>1490671862224</created>
+      <option name="number" value="00465" />
+      <option name="project" value="LOCAL" />
+      <updated>1490671862224</updated>
+    </task>
+    <task id="LOCAL-00466" summary="为了支持手动修改数值后能够获取最新的值">
+      <created>1490671918287</created>
+      <option name="number" value="00466" />
+      <option name="project" value="LOCAL" />
+      <updated>1490671918287</updated>
+    </task>
+    <task id="LOCAL-00467" summary="搭建平台">
+      <created>1523172383292</created>
+      <option name="number" value="00467" />
+      <option name="project" value="LOCAL" />
+      <updated>1523172383300</updated>
+    </task>
+    <task id="LOCAL-00468" summary="搭建平台">
+      <created>1523175895223</created>
+      <option name="number" value="00468" />
+      <option name="project" value="LOCAL" />
+      <updated>1523175895223</updated>
+    </task>
+    <option name="localTasksCounter" value="469" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3563319000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32790697" sideWeight="0.48925886" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28602383" sideWeight="0.4828142" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32906976" sideWeight="0.4914071" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5430839" sideWeight="0.5315171" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16143012" sideWeight="0.4914071" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31419286" sideWeight="0.67776585" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32906976" sideWeight="0.4914071" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22435898" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.042110875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24844721" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4452871" sideWeight="0.7690655" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4864572" sideWeight="0.716971" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3206934" sideWeight="0.4684829" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3846154" sideWeight="0.35127932" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32906976" sideWeight="0.4936034" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.042110875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24844721" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54339623" sideWeight="0.7915778" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.4914712" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20188679" sideWeight="0.44553706" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12945369" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4936034" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28679246" sideWeight="0.7670576" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4978678" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5010482" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2264151" sideWeight="0.47707888" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="解决正式环境上的bug" />
+    <MESSAGE value="解决bug1440" />
+    <MESSAGE value="解决bug1438" />
+    <MESSAGE value="引入中文分词器IKAnalyzer" />
+    <MESSAGE value="解决第三方jar包加载问题" />
+    <MESSAGE value="官网活动列表搜索优化" />
+    <MESSAGE value="删除废弃代码" />
+    <MESSAGE value="解决bug1477" />
+    <MESSAGE value="解决bug1487" />
+    <MESSAGE value="解决websocket的问题" />
+    <MESSAGE value="活动列表查询sql优化" />
+    <MESSAGE value="开发微信支付新页面" />
+    <MESSAGE value="header优化" />
+    <MESSAGE value="开发等级勋章需求" />
+    <MESSAGE value="开发APP IOS版本" />
+    <MESSAGE value="增加图片验证码" />
+    <MESSAGE value="修改返回按钮在微信跟浏览器环境不一致的问题" />
+    <MESSAGE value="getFavoriteStrategyList少了两个字段" />
+    <MESSAGE value="修改在手机上的跳转的bug" />
+    <MESSAGE value="修改浏览器network中的错误" />
+    <MESSAGE value="解决starttime报空指针的问题" />
+    <MESSAGE value="活动支付成功短信通知代码优化" />
+    <MESSAGE value="手机网站活动支持票种价格为可变价格" />
+    <MESSAGE value="为了支持手动修改数值后能够获取最新的值" />
+    <MESSAGE value="搭建平台" />
+    <option name="LAST_COMMIT_MESSAGE" value="搭建平台" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/poseidon/web/muses/controller/BaseController.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/poseidon/web/muses/controller/IndexController.java</url>
+          <line>376</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/../poseidon.web.server.act/src/main/java/poseidon/web/muses/db/act/serviceImpl/ActServiceImpl.java</url>
+          <line>1742</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/../poseidon.web.server.tribe/src/main/java/poseidon/web/muses/db/tribe/serviceImpl/TribeInterfaceServiceImpl.java</url>
+          <line>130</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/../poseidon.web.muses.db/src/main/java/poseidon/web/muses/db/common/lucene/serviceImpl/LuceneActServiceImpl.java</url>
+          <line>345</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/../poseidon.web.muses.db/src/main/java/poseidon/web/muses/db/common/lucene/serviceImpl/LuceneActServiceImpl.java</url>
+          <line>494</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/../poseidon.web.server.act/src/main/java/poseidon/web/muses/db/act/serviceImpl/ActServiceImpl.java</url>
+          <line>1872</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/../poseidon.web.server.act/src/main/java/poseidon/web/muses/db/act/serviceImpl/ActServiceImpl.java</url>
+          <line>1859</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/../poseidon.web.server.user/src/main/java/poseidon/web/muses/db/user/serviceImpl/UserMessageServiceImpl.java</url>
+          <line>175</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/poseidon/web/muses/controller/act/ActController.java</url>
+          <line>822</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/poseidon/web/muses/controller/act/ActController.java</url>
+          <line>821</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/poseidon/web/muses/controller/act/ActController.java</url>
+          <line>724</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/../poseidon.web.muses.db/src/main/java/poseidon/web/muses/db/common/shiro/ShiroDbRealm.java</url>
+          <line>129</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/../poseidon.web.admin/src/main/java/poseidon/web/admin/controller/admin/act/ActController.java</url>
+          <line>1232</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../poseidon.app.service/src/main/java/poseidon/web/muses/controller/user/UserController.java</url>
+          <line>114</line>
+          <properties />
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../poseidon.lib.core/src/main/java/poseidon/lib/core/tool/img/TestImg.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog>
+          <selected-grouping-rules>
+            <grouping-rule id="XBreakpointGroupingByClassRule" />
+          </selected-grouping-rules>
+        </breakpoints-dialog>
+      </breakpoints-dialog>
+      <option name="time" value="96" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="currentUser.isAuthenticated()" />
+        <watch expression="currentUser.isRemembered()" />
+        <watch expression="session.getAttribute(&quot;admin&quot;)" />
+        <watch expression="(int)newHeight" />
+        <watch expression="bufferedImg.getWidth()" />
+        <watch expression="request.getParameter(&quot;beginDate&quot;)" language="JAVA" custom="" />
+        <watch expression="request.getParameter(&quot;title&quot;)" language="JAVA" custom="" />
+        <watch expression="rowsStartCity" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="currentUser.isAuthenticated()" />
+        <watch expression="currentUser.isRemembered()" />
+        <watch expression="session.getAttribute(&quot;admin&quot;)" />
+        <watch expression="(int)newHeight" />
+        <watch expression="bufferedImg.getWidth()" />
+        <watch expression="request.getParameter(&quot;beginDate&quot;)" language="JAVA" custom="" />
+        <watch expression="request.getParameter(&quot;title&quot;)" language="JAVA" custom="" />
+        <watch expression="rowsStartCity" />
+      </configuration>
+      <configuration name="MavenRunConfiguration">
+        <watch expression="currentUser.isAuthenticated()" />
+        <watch expression="currentUser.isRemembered()" />
+        <watch expression="session.getAttribute(&quot;admin&quot;)" />
+        <watch expression="(int)newHeight" />
+        <watch expression="bufferedImg.getWidth()" />
+        <watch expression="request.getParameter(&quot;beginDate&quot;)" language="JAVA" custom="" />
+        <watch expression="request.getParameter(&quot;title&quot;)" language="JAVA" custom="" />
+        <watch expression="rowsStartCity" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mailConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-shiro.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="8" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-redis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/redis.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="55" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="11" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/360Downloads/maven/repos/org/springframework/spring-web/4.1.2.RELEASE/spring-web-4.1.2.RELEASE-sources.jar!/org/springframework/web/util/HtmlUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/360Downloads/maven/repos/org/apache/lucene/lucene-core/3.5.0/lucene-core-3.5.0-sources.jar!/org/apache/lucene/util/BitVector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4957507">
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.jupiter">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.3914373">
+          <caret line="92" column="46" selection-start-line="92" selection-start-column="46" selection-end-line="92" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31903484">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.28">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/.name">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.028145695">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/poseidon/zhdj/controller/synchronize/LoginSyn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/poseidon/zhdj/common/util/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13310961">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.1294117">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mailConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/redis.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-shiro.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.11111">
+          <caret line="73" column="8" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../poseidon.zhdj.core/src/main/java/weixin/WeixinpayConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4047619">
+          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../poseidon.zhdj.core/src/main/java/weixin/WeiXinPayModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.7253969">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../poseidon.zhdj.core/src/main/java/weixin/WeixinOauth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13492064">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../poseidon.zhdj.core/src/main/java/weixin/WeixinConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10793651">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64761907">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7083333">
+          <caret line="24" column="71" selection-start-line="24" selection-start-column="71" selection-end-line="24" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.47569445">
+          <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-redis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.6666665">
+          <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/common/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18888889">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/common/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.053968254">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="12.907408">
+          <caret line="30" column="55" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/valid/serviceImpl/RedisValid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18888889">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../poseidon.zhdj.db/src/main/java/poseidon/zhdj/exception/BusinessException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.053968254">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../poseidon.zhdj.db/src/main/java/poseidon/zhdj/redis/RedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.24285714">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/video/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3438202">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/poseidon/zhdj/controller/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.028428094">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/poseidon/zhdj/controller/synchronize/ZiyuanSyn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22742476">
+          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/video/dao/VideoModelMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/video/service/impl/VideoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="e#1379#1380#0" expanded="false" />
+            <element signature="e#1433#1434#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/video/service/VideoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/video/model/VideoModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1365#1366#0" expanded="false" />
+            <element signature="e#1398#1399#0" expanded="false" />
+            <element signature="e#1451#1452#0" expanded="false" />
+            <element signature="e#1495#1496#0" expanded="false" />
+            <element signature="e#1523#1524#0" expanded="false" />
+            <element signature="e#1549#1550#0" expanded="false" />
+            <element signature="e#1585#1586#0" expanded="false" />
+            <element signature="e#1615#1616#0" expanded="false" />
+            <element signature="e#1644#1645#0" expanded="false" />
+            <element signature="e#1671#1672#0" expanded="false" />
+            <element signature="e#1709#1710#0" expanded="false" />
+            <element signature="e#1741#1742#0" expanded="false" />
+            <element signature="e#1776#1777#0" expanded="false" />
+            <element signature="e#1806#1807#0" expanded="false" />
+            <element signature="e#1853#1854#0" expanded="false" />
+            <element signature="e#1891#1892#0" expanded="false" />
+            <element signature="e#1924#1925#0" expanded="false" />
+            <element signature="e#1953#1954#0" expanded="false" />
+            <element signature="e#1988#1989#0" expanded="false" />
+            <element signature="e#2019#2020#0" expanded="false" />
+            <element signature="e#2067#2068#0" expanded="false" />
+            <element signature="e#2107#2108#0" expanded="false" />
+            <element signature="e#2151#2152#0" expanded="false" />
+            <element signature="e#2187#2188#0" expanded="false" />
+            <element signature="e#2219#2220#0" expanded="false" />
+            <element signature="e#2247#2248#0" expanded="false" />
+            <element signature="e#2289#2290#0" expanded="false" />
+            <element signature="e#2353#2354#0" expanded="false" />
+            <element signature="e#2384#2385#0" expanded="false" />
+            <element signature="e#2411#2412#0" expanded="false" />
+            <element signature="e#2451#2452#0" expanded="false" />
+            <element signature="e#2512#2513#0" expanded="false" />
+            <element signature="e#2542#2543#0" expanded="false" />
+            <element signature="e#2568#2569#0" expanded="false" />
+            <element signature="e#2606#2607#0" expanded="false" />
+            <element signature="e#2664#2665#0" expanded="false" />
+            <element signature="e#2697#2698#0" expanded="false" />
+            <element signature="e#2725#2726#0" expanded="false" />
+            <element signature="e#2768#2769#0" expanded="false" />
+            <element signature="e#2802#2803#0" expanded="false" />
+            <element signature="e#2836#2837#0" expanded="false" />
+            <element signature="e#2865#2866#0" expanded="false" />
+            <element signature="e#2910#2911#0" expanded="false" />
+            <element signature="e#2946#2947#0" expanded="false" />
+            <element signature="e#2976#2977#0" expanded="false" />
+            <element signature="e#3004#3005#0" expanded="false" />
+            <element signature="e#3044#3045#0" expanded="false" />
+            <element signature="e#3078#3079#0" expanded="false" />
+            <element signature="e#3108#3109#0" expanded="false" />
+            <element signature="e#3136#3137#0" expanded="false" />
+            <element signature="e#3176#3177#0" expanded="false" />
+            <element signature="e#3210#3211#0" expanded="false" />
+            <element signature="e#3240#3241#0" expanded="false" />
+            <element signature="e#3266#3267#0" expanded="false" />
+            <element signature="e#3304#3305#0" expanded="false" />
+            <element signature="e#3362#3363#0" expanded="false" />
+            <element signature="e#3393#3394#0" expanded="false" />
+            <element signature="e#3419#3420#0" expanded="false" />
+            <element signature="e#3458#3459#0" expanded="false" />
+            <element signature="e#3488#3489#0" expanded="false" />
+            <element signature="e#3525#3526#0" expanded="false" />
+            <element signature="e#3557#3558#0" expanded="false" />
+            <element signature="e#3608#3609#0" expanded="false" />
+            <element signature="e#3650#3651#0" expanded="false" />
+            <element signature="e#3687#3688#0" expanded="false" />
+            <element signature="e#3719#3720#0" expanded="false" />
+            <element signature="e#3770#3771#0" expanded="false" />
+            <element signature="e#3812#3813#0" expanded="false" />
+            <element signature="e#3849#3850#0" expanded="false" />
+            <element signature="e#3881#3882#0" expanded="false" />
+            <element signature="e#3932#3933#0" expanded="false" />
+            <element signature="e#3974#3975#0" expanded="false" />
+            <element signature="e#4009#4010#0" expanded="false" />
+            <element signature="e#4040#4041#0" expanded="false" />
+            <element signature="e#4088#4089#0" expanded="false" />
+            <element signature="e#4128#4129#0" expanded="false" />
+            <element signature="e#4162#4163#0" expanded="false" />
+            <element signature="e#4192#4193#0" expanded="false" />
+            <element signature="e#4226#4227#0" expanded="false" />
+            <element signature="e#4255#4256#0" expanded="false" />
+            <element signature="e#4300#4301#0" expanded="false" />
+            <element signature="e#4336#4337#0" expanded="false" />
+            <element signature="e#4370#4371#0" expanded="false" />
+            <element signature="e#4399#4400#0" expanded="false" />
+            <element signature="e#4444#4445#0" expanded="false" />
+            <element signature="e#4480#4481#0" expanded="false" />
+            <element signature="e#4602#4603#0" expanded="false" />
+            <element signature="e#4634#4635#0" expanded="false" />
+            <element signature="e#4685#4686#0" expanded="false" />
+            <element signature="e#4727#4728#0" expanded="false" />
+            <element signature="e#4765#4766#0" expanded="false" />
+            <element signature="e#4799#4800#0" expanded="false" />
+            <element signature="e#4853#4854#0" expanded="false" />
+            <element signature="e#4899#4900#0" expanded="false" />
+            <element signature="e#4935#4936#0" expanded="false" />
+            <element signature="e#4966#4967#0" expanded="false" />
+            <element signature="e#5015#5016#0" expanded="false" />
+            <element signature="e#5055#5056#0" expanded="false" />
+            <element signature="e#5094#5095#0" expanded="false" />
+            <element signature="e#5128#5129#0" expanded="false" />
+            <element signature="e#5183#5184#0" expanded="false" />
+            <element signature="e#5229#5230#0" expanded="false" />
+            <element signature="e#5263#5264#0" expanded="false" />
+            <element signature="e#5292#5293#0" expanded="false" />
+            <element signature="e#5337#5338#0" expanded="false" />
+            <element signature="e#5373#5374#0" expanded="false" />
+            <element signature="e#5410#5411#0" expanded="false" />
+            <element signature="e#5442#5443#0" expanded="false" />
+            <element signature="e#5493#5494#0" expanded="false" />
+            <element signature="e#5535#5536#0" expanded="false" />
+            <element signature="e#5576#5577#0" expanded="false" />
+            <element signature="e#5612#5613#0" expanded="false" />
+            <element signature="e#5671#5672#0" expanded="false" />
+            <element signature="e#5721#5722#0" expanded="false" />
+            <element signature="e#5758#5759#0" expanded="false" />
+            <element signature="e#5790#5791#0" expanded="false" />
+            <element signature="e#5841#5842#0" expanded="false" />
+            <element signature="e#5883#5884#0" expanded="false" />
+            <element signature="e#5914#5915#0" expanded="false" />
+            <element signature="e#5941#5942#0" expanded="false" />
+            <element signature="e#5981#5982#0" expanded="false" />
+            <element signature="e#6013#6014#0" expanded="false" />
+            <element signature="e#6048#6049#0" expanded="false" />
+            <element signature="e#6079#6080#0" expanded="false" />
+            <element signature="e#6127#6128#0" expanded="false" />
+            <element signature="e#6167#6168#0" expanded="false" />
+            <element signature="e#6206#6207#0" expanded="false" />
+            <element signature="e#6240#6241#0" expanded="false" />
+            <element signature="e#6295#6296#0" expanded="false" />
+            <element signature="e#6341#6342#0" expanded="false" />
+            <element signature="e#6379#6380#0" expanded="false" />
+            <element signature="e#6412#6413#0" expanded="false" />
+            <element signature="e#6465#6466#0" expanded="false" />
+            <element signature="e#6509#6510#0" expanded="false" />
+            <element signature="e#6543#6544#0" expanded="false" />
+            <element signature="e#6575#6576#0" expanded="false" />
+            <element signature="e#6623#6624#0" expanded="false" />
+            <element signature="e#6665#6666#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/video/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.41348314">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/poseidon/zhdj/controller/wap/zhdj/ResultController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18888889">
+          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../poseidon.zhdj.db/src/main/java/poseidon/zhdj/db/global/GlobalConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../poseidon.zhdj.db/src/main/resources/mapping/video/UserModelMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../poseidon.zhdj.db/src/main/resources/mapping/video/VideoModelMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18428184">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poseidon.hezhubo.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6495414">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/poseidon/zhdj/common/task/CompeteVideosRankTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/poseidon/zhdj/controller/zhdj/ZhiboController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08095238">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="javaee-facet-resources" />
+              <type id="library" />
+              <type id="jpa-descriptors" />
+              <type id="artifact" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>poseidon.web.muses:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25747126" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.41264367" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>IKAnalyzer-2012_FF</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.41264367" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25747126" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>poseidon.zhdj.db</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.41264367" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: commons-collections:commons-collections:3.2.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.41264367" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

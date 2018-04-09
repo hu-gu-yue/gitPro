@@ -1,0 +1,7 @@
+poseidon\zhdj\controller\synchronize\LoginSyn.class
+poseidon\zhdj\controller\zhdj\ZhiboController.class
+poseidon\zhdj\common\util\Constant.class
+poseidon\zhdj\controller\synchronize\ZiyuanSyn.class
+poseidon\zhdj\controller\wap\zhdj\ResultController.class
+poseidon\zhdj\common\task\CompeteVideosRankTask.class
+poseidon\zhdj\controller\BaseController.class
