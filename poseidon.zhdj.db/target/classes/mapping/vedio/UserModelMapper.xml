@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="poseidon.zhdj.db.video.dao.UserModelMapper" >
+  <resultMap id="BaseResultMap" type="poseidon.zhdj.db.video.model.UserModel" >
+    <id column="uid" property="uid" jdbcType="VARCHAR" />
+    <result column="userName" property="userName" jdbcType="VARCHAR" />
+    <result column="unitName" property="unitName" jdbcType="VARCHAR" />
+    <result column="department" property="department" jdbcType="VARCHAR" />
+    <result column="headImg" property="headImg" jdbcType="VARCHAR" />
+    <result column="loginTime" property="loginTime" jdbcType="TIMESTAMP" />
+    <result column="gift1" property="gift1" jdbcType="INTEGER" />
+    <result column="gift2" property="gift2" jdbcType="INTEGER" />
+    <result column="gift3" property="gift3" jdbcType="INTEGER" />
+    <result column="gift4" property="gift4" jdbcType="INTEGER" />
+    <result column="gift5" property="gift5" jdbcType="INTEGER" />
+    <result column="gift6" property="gift6" jdbcType="INTEGER" />
+    <result column="viewVid" property="viewVid" jdbcType="VARCHAR" />
+  </resultMap>
+  <sql id="Base_Column_List" >
+    uid, userName,unitName,department, headImg, loginTime, gift1, gift2, gift3, gift4, gift5, gift6,viewVid
+  </sql>
+  <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="java.lang.String" >
+    select 
+    <include refid="Base_Column_List" />
+    from user
+    where uid = #{uid,jdbcType=VARCHAR}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.String" >
+    delete from user
+    where uid = #{uid,jdbcType=VARCHAR}
+  </delete>
+  <insert id="insert" parameterType="poseidon.zhdj.db.video.model.UserModel" >
+    insert into user (uid, userName, unitName,department,headImg,
+      loginTime, gift1, gift2, 
+      gift3, gift4, gift5, 
+      gift6,viewVid)
+    values (#{uid,jdbcType=VARCHAR}, #{userName,jdbcType=VARCHAR},#{unitName,jdbcType=VARCHAR},#{department,jdbcType=VARCHAR}, #{headImg,jdbcType=VARCHAR},
+      #{loginTime,jdbcType=TIMESTAMP}, #{gift1,jdbcType=INTEGER}, #{gift2,jdbcType=INTEGER}, 
+      #{gift3,jdbcType=INTEGER}, #{gift4,jdbcType=INTEGER}, #{gift5,jdbcType=INTEGER}, 
+      #{gift6,jdbcType=INTEGER}, #{viewVid,jdbcType=VARCHAR})
+  </insert>
+  <insert id="insertSelective" parameterType="poseidon.zhdj.db.video.model.UserModel" >
+    insert into user
+    <trim prefix="(" suffix=")" suffixOverrides="," >
+      <if test="uid != null" >
+        uid,
+      </if>
+      <if test="userName != null" >
+        userName,
+      </if>
+      <if test="unitName != null" >
+        unitName,
+      </if>
+      <if test="department != null" >
+        department,
+      </if>
+      <if test="headImg != null" >
+        headImg,
+      </if>
+      <if test="loginTime != null" >
+        loginTime,
+      </if>
+      <if test="gift1 != null" >
+        gift1,
+      </if>
+      <if test="gift2 != null" >
+        gift2,
+      </if>
+      <if test="gift3 != null" >
+        gift3,
+      </if>
+      <if test="gift4 != null" >
+        gift4,
+      </if>
+      <if test="gift5 != null" >
+        gift5,
+      </if>
+      <if test="gift6 != null" >
+        gift6,
+      </if>
+      <if test="viewVid != null" >
+        viewVid,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides="," >
+      <if test="uid != null" >
+        #{uid,jdbcType=VARCHAR},
+      </if>
+      <if test="userName != null" >
+        #{userName,jdbcType=VARCHAR},
+      </if>
+      <if test="unitName != null" >
+        #{unitName,jdbcType=VARCHAR},
+      </if>
+      <if test="department != null" >
+        #{department,jdbcType=VARCHAR},
+      </if>
+      <if test="headImg != null" >
+        #{headImg,jdbcType=VARCHAR},
+      </if>
+      <if test="loginTime != null" >
+        #{loginTime,jdbcType=TIMESTAMP},
+      </if>
+      <if test="gift1 != null" >
+        #{gift1,jdbcType=INTEGER},
+      </if>
+      <if test="gift2 != null" >
+        #{gift2,jdbcType=INTEGER},
+      </if>
+      <if test="gift3 != null" >
+        #{gift3,jdbcType=INTEGER},
+      </if>
+      <if test="gift4 != null" >
+        #{gift4,jdbcType=INTEGER},
+      </if>
+      <if test="gift5 != null" >
+        #{gift5,jdbcType=INTEGER},
+      </if>
+      <if test="gift6 != null" >
+        #{gift6,jdbcType=INTEGER},
+      </if>
+      <if test="viewVid != null" >
+        #{viewVid,jdbcType=VARCHAR},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="poseidon.zhdj.db.video.model.UserModel" >
+    update user
+    <set >
+      <if test="userName != null" >
+        userName = #{userName,jdbcType=VARCHAR},
+      </if>
+      <if test="unitName != null" >
+        unitName = #{unitName,jdbcType=VARCHAR},
+      </if>
+      <if test="department != null" >
+        department = #{department,jdbcType=VARCHAR},
+      </if>
+      <if test="headImg != null" >
+        headImg = #{headImg,jdbcType=VARCHAR},
+      </if>
+      <if test="loginTime != null" >
+        loginTime = #{loginTime,jdbcType=TIMESTAMP},
+      </if>
+      <if test="gift1 != null" >
+        gift1 = #{gift1,jdbcType=INTEGER},
+      </if>
+      <if test="gift2 != null" >
+        gift2 = #{gift2,jdbcType=INTEGER},
+      </if>
+      <if test="gift3 != null" >
+        gift3 = #{gift3,jdbcType=INTEGER},
+      </if>
+      <if test="gift4 != null" >
+        gift4 = #{gift4,jdbcType=INTEGER},
+      </if>
+      <if test="gift5 != null" >
+        gift5 = #{gift5,jdbcType=INTEGER},
+      </if>
+      <if test="gift6 != null" >
+        gift6 = #{gift6,jdbcType=INTEGER},
+      </if>
+      <if test="viewVid != null" >
+        viewVid = #{viewVid,jdbcType=VARCHAR},
+      </if>
+    </set>
+    where uid = #{uid,jdbcType=VARCHAR}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="poseidon.zhdj.db.video.model.UserModel" >
+    update user
+    set userName = #{userName,jdbcType=VARCHAR},
+      unitName = #{unitName,jdbcType=VARCHAR},
+      department = #{department,jdbcType=VARCHAR},
+      headImg = #{headImg,jdbcType=VARCHAR},
+      loginTime = #{loginTime,jdbcType=TIMESTAMP},
+      gift1 = #{gift1,jdbcType=INTEGER},
+      gift2 = #{gift2,jdbcType=INTEGER},
+      gift3 = #{gift3,jdbcType=INTEGER},
+      gift4 = #{gift4,jdbcType=INTEGER},
+      gift5 = #{gift5,jdbcType=INTEGER},
+      gift6 = #{gift6,jdbcType=INTEGER},
+      viewVid = #{viewVid,jdbcType=VARCHAR}
+    where uid = #{uid,jdbcType=VARCHAR}
+  </update>
+</mapper>

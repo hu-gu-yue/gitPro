@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="poseidon.zhdj.db.video.dao.VideoGiftModelMapper" >
+  <resultMap id="BaseResultMap" type="poseidon.zhdj.db.video.model.VideoGiftModel" >
+    <id column="id" property="id" jdbcType="BIGINT" />
+    <result column="vid" property="vid" jdbcType="BIGINT" />
+    <result column="giftId" property="giftId" jdbcType="INTEGER" />
+    <result column="giftScore" property="giftScore" jdbcType="INTEGER" />
+    <result column="uid" property="uid" jdbcType="VARCHAR" />
+    <result column="cTime" property="cTime" jdbcType="TIMESTAMP" />
+    <result column="act" property="act" jdbcType="INTEGER" />
+    <result column="giftCount" property="giftCount" jdbcType="INTEGER" />
+  </resultMap>
+  <sql id="Base_Column_List" >
+    id, vid, giftId,giftScore, uid, cTime,act
+  </sql>
+  <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="java.lang.Long" >
+    select 
+    <include refid="Base_Column_List" />
+    from videogift
+    where id = #{id,jdbcType=BIGINT}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Long" >
+    delete from videogift
+    where id = #{id,jdbcType=BIGINT}
+  </delete>
+  <insert id="insert" parameterType="poseidon.zhdj.db.video.model.VideoGiftModel" >
+    insert into videogift (id, vid, giftId, 
+      uid, cTime,act)
+    values (#{id,jdbcType=BIGINT}, #{vid,jdbcType=BIGINT}, #{giftId,jdbcType=INTEGER}, #{giftScore,jdbcType=INTEGER},
+      #{uid,jdbcType=VARCHAR}, #{cTime,jdbcType=TIMESTAMP},#{act,jdbcType=INTEGER})
+  </insert>
+  <insert id="insertSelective" parameterType="poseidon.zhdj.db.video.model.VideoGiftModel" >
+    insert into videogift
+    <trim prefix="(" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        id,
+      </if>
+      <if test="vid != null" >
+        vid,
+      </if>
+      <if test="giftId != null" >
+        giftId,
+      </if>
+      <if test="giftScore != null" >
+        giftScore,
+      </if>
+      <if test="uid != null" >
+        uid,
+      </if>
+      <if test="cTime != null" >
+        cTime,
+      </if>
+      <if test="act != null" >
+        act,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        #{id,jdbcType=BIGINT},
+      </if>
+      <if test="vid != null" >
+        #{vid,jdbcType=BIGINT},
+      </if>
+      <if test="giftId != null" >
+        #{giftId,jdbcType=INTEGER},
+      </if>
+      <if test="giftScore != null" >
+        #{giftScore,jdbcType=INTEGER},
+      </if>
+      <if test="uid != null" >
+        #{uid,jdbcType=VARCHAR},
+      </if>
+      <if test="cTime != null" >
+        #{cTime,jdbcType=TIMESTAMP},
+      </if>
+      <if test="act != null" >
+        #{act,jdbcType=INTEGER},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="poseidon.zhdj.db.video.model.VideoGiftModel" >
+    update videogift
+    <set >
+      <if test="vid != null" >
+        vid = #{vid,jdbcType=BIGINT},
+      </if>
+      <if test="giftId != null" >
+        giftId = #{giftId,jdbcType=INTEGER},
+      </if>
+      <if test="giftScore != null" >
+        giftScore = #{giftScore,jdbcType=INTEGER},
+      </if>
+      <if test="uid != null" >
+        uid = #{uid,jdbcType=VARCHAR},
+      </if>
+      <if test="cTime != null" >
+        cTime = #{cTime,jdbcType=TIMESTAMP},
+      </if>
+      <if test="act != null" >
+        act = #{act,jdbcType=INTEGER},
+      </if>
+    </set>
+    where id = #{id,jdbcType=BIGINT}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="poseidon.zhdj.db.video.model.VideoGiftModel" >
+    update videogift
+    set vid = #{vid,jdbcType=BIGINT},
+      giftId = #{giftId,jdbcType=INTEGER},
+      giftScore = #{giftScore,jdbcType=INTEGER},
+      uid = #{uid,jdbcType=VARCHAR},
+      cTime = #{cTime,jdbcType=TIMESTAMP},
+      act = #{act,jdbcType=INTEGER}
+    where id = #{id,jdbcType=BIGINT}
+  </update>
+
+  <!-- 某视频直播间前limit礼物排名 -->
+  <select id="getVideoGiftScore" resultType="poseidon.zhdj.db.video.model.VideoGiftModel">
+    select s.*,(select u.userName from user u where u.uid = s.uid)AS userName,
+     (select count(1) from videogift vg where vg.uid = s.uid and vg.giftId = 3 AND vg.vid = #{vid,jdbcType=BIGINT})AS cvn
+     from (
+      SELECT uid, SUM(giftScore) AS giftScore FROM videogift WHERE vid = #{vid,jdbcType=BIGINT} GROUP BY uid ORDER BY giftScore DESC limit #{limit})s
+  </select>
+
+  <!-- 某直播间礼物个数 -->
+  <select id="getVideoGiftCount" resultMap="BaseResultMap">
+    SELECT giftId,COUNT(giftId) AS giftCount FROM videogift WHERE vid = #{vid,jdbcType=BIGINT} GROUP BY giftId
+  </select>
+
+</mapper>

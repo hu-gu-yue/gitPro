@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="poseidon.zhdj.db.qcj.dao.LuckyListModelMapper" >
+  <resultMap id="BaseResultMap" type="poseidon.zhdj.db.qcj.model.LuckyListModel" >
+    <id column="id" property="id" jdbcType="INTEGER" />
+    <result column="uid" property="uid" jdbcType="VARCHAR" />
+    <result column="luckyType" property="luckyType" jdbcType="INTEGER" />
+    <result column="cTime" property="cTime" jdbcType="TIMESTAMP" />
+    <result column="act" property="act" jdbcType="INTEGER" />
+    <result column="headImg" property="headImg" jdbcType="VARCHAR" />
+    <result column="userName" property="userName" jdbcType="VARCHAR" />
+    <result column="unitName" property="unitName" jdbcType="VARCHAR" />
+  </resultMap>
+  <sql id="Base_Column_List" >
+    id, uid, luckyType, cTime, act
+  </sql>
+  <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="java.lang.Integer" >
+    select 
+    <include refid="Base_Column_List" />
+    from luckylist
+    where id = #{id,jdbcType=INTEGER}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer" >
+    delete from luckylist
+    where id = #{id,jdbcType=INTEGER}
+  </delete>
+  <insert id="insert" parameterType="poseidon.zhdj.db.qcj.model.LuckyListModel" >
+    insert into luckylist (id, uid, luckyType, 
+      cTime, act)
+    values (#{id,jdbcType=INTEGER}, #{uid,jdbcType=VARCHAR}, #{luckyType,jdbcType=INTEGER}, 
+      #{cTime,jdbcType=TIMESTAMP}, #{act,jdbcType=INTEGER})
+  </insert>
+  <insert id="insertSelective" parameterType="poseidon.zhdj.db.qcj.model.LuckyListModel" >
+    insert into luckylist
+    <trim prefix="(" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        id,
+      </if>
+      <if test="uid != null" >
+        uid,
+      </if>
+      <if test="luckyType != null" >
+        luckyType,
+      </if>
+      <if test="cTime != null" >
+        cTime,
+      </if>
+      <if test="act != null" >
+        act,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        #{id,jdbcType=INTEGER},
+      </if>
+      <if test="uid != null" >
+        #{uid,jdbcType=VARCHAR},
+      </if>
+      <if test="luckyType != null" >
+        #{luckyType,jdbcType=INTEGER},
+      </if>
+      <if test="cTime != null" >
+        #{cTime,jdbcType=TIMESTAMP},
+      </if>
+      <if test="act != null" >
+        #{act,jdbcType=INTEGER},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="poseidon.zhdj.db.qcj.model.LuckyListModel" >
+    update luckylist
+    <set >
+      <if test="uid != null" >
+        uid = #{uid,jdbcType=VARCHAR},
+      </if>
+      <if test="luckyType != null" >
+        luckyType = #{luckyType,jdbcType=INTEGER},
+      </if>
+      <if test="cTime != null" >
+        cTime = #{cTime,jdbcType=TIMESTAMP},
+      </if>
+      <if test="act != null" >
+        act = #{act,jdbcType=INTEGER},
+      </if>
+    </set>
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="poseidon.zhdj.db.qcj.model.LuckyListModel" >
+    update luckylist
+    set uid = #{uid,jdbcType=VARCHAR},
+      luckyType = #{luckyType,jdbcType=INTEGER},
+      cTime = #{cTime,jdbcType=TIMESTAMP},
+      act = #{act,jdbcType=INTEGER}
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+
+  <!-- 根据type查询 幸运排行榜 -->
+  <select id="getLuckyLisyByType" resultMap="BaseResultMap">
+    select
+    <include refid="Base_Column_List" />,
+    (select userName from user u where u.uid = lk.uid) AS userName,
+    (select unitName from user u where u.uid = lk.uid) AS unitName,
+    (select headImg from user u where u.uid = lk.uid) AS headImg
+    from luckylist lk
+    where luckyType = #{luckyType,jdbcType=INTEGER} AND act = #{act,jdbcType=INTEGER}
+  </select>
+
+  <!-- 查询用户是否获奖 -->
+  <select id="selectByUidAndType" resultMap="BaseResultMap">
+    select 
+    <include refid="Base_Column_List" />
+    from luckylist
+    where uid = #{uid,jdbcType=VARCHAR}
+    AND luckyType = #{luckyType,jdbcType=INTEGER}
+    limit 1
+  </select>
+  
+  <!-- 今天获取点赞奖人数      总共获取的点赞奖人数-->
+  <select id="selectCountByType" resultType="java.lang.Integer">
+    select 
+    count(*)
+    from luckylist
+    where 1=1 
+    <if test="luckyType != null" >
+     AND luckyType = #{luckyType,jdbcType=INTEGER}
+    </if>
+    <if test="isToday == true" >
+    	AND DATE_FORMAT(cTime,'%Y-%c-%d') = DATE_FORMAT(NOW(),'%Y-%c-%d')
+    </if>
+  </select>
+  
+  
+
+</mapper>

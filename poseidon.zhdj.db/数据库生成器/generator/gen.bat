@@ -1,0 +1,9 @@
+java -jar mybatis-generator-core-1.3.2.jar -configfile ./user.xml -overwrite
+java -jar mybatis-generator-core-1.3.2.jar -configfile ./tribe.xml -overwrite
+java -jar mybatis-generator-core-1.3.2.jar -configfile ./act.xml -overwrite
+java -jar mybatis-generator-core-1.3.2.jar -configfile ./photo.xml -overwrite
+java -jar mybatis-generator-core-1.3.2.jar -configfile ./note.xml -overwrite
+java -jar mybatis-generator-core-1.3.2.jar -configfile ./alipay.xml -overwrite
+java -jar mybatis-generator-core-1.3.2.jar -configfile ./tag.xml -overwrite
+java -jar mybatis-generator-core-1.3.2.jar -configfile ./act.xml -overwrite
+java -jar mybatis-generator-core-1.3.2.jar -configfile ./city.xml -overwrite

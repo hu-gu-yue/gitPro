@@ -1,0 +1,6 @@
+<html>
+<body>
+	欢迎您注册自驾友，请点击下面的链接激活您的帐号
+	<a href="http://localhost:8888/userActiveEmail?regCode=${regCode}">点击这里激活您的邮件</a> 
+</body>
+</html>

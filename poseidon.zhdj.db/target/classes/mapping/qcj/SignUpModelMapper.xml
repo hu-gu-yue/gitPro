@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="poseidon.zhdj.db.qcj.dao.SignUpModelMapper" >
+  <resultMap id="BaseResultMap" type="poseidon.zhdj.db.qcj.model.SignUpModel" >
+    <id column="id" property="id" jdbcType="BIGINT" />
+    <result column="userName" property="userName" jdbcType="VARCHAR" />
+    <result column="department" property="department" jdbcType="VARCHAR" />
+    <result column="company" property="company" jdbcType="VARCHAR" />
+    <result column="mobile" property="mobile" jdbcType="VARCHAR" />
+    <result column="uid" property="uid" jdbcType="VARCHAR" />
+    <result column="act" property="act" jdbcType="INTEGER" />
+    <result column="cTime" property="cTime" jdbcType="TIMESTAMP" />
+  </resultMap>
+  <sql id="Base_Column_List" >
+    id, userName, department, company, mobile, uid, act,cTime
+  </sql>
+  <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="java.lang.Long" >
+    select 
+    <include refid="Base_Column_List" />
+    from signup
+    where id = #{id,jdbcType=BIGINT}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Long" >
+    delete from signup
+    where id = #{id,jdbcType=BIGINT}
+  </delete>
+  <insert id="insert" parameterType="poseidon.zhdj.db.qcj.model.SignUpModel" >
+    insert into signup (id, userName, department,
+      company, mobile, uid, 
+      act,cTime)
+    values (#{id,jdbcType=BIGINT}, #{userName,jdbcType=VARCHAR}, #{department,jdbcType=VARCHAR},
+      #{company,jdbcType=VARCHAR}, #{mobile,jdbcType=VARCHAR}, #{uid,jdbcType=VARCHAR}, 
+      #{act,jdbcType=INTEGER},#{cTime,jdbcType=TIMESTAMP})
+  </insert>
+  <insert id="insertSelective" parameterType="poseidon.zhdj.db.qcj.model.SignUpModel" >
+    insert into signup
+    <trim prefix="(" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        id,
+      </if>
+      <if test="userName != null" >
+        userName,
+      </if>
+      <if test="department != null" >
+        department,
+      </if>
+      <if test="company != null" >
+        company,
+      </if>
+      <if test="mobile != null" >
+        mobile,
+      </if>
+      <if test="uid != null" >
+        uid,
+      </if>
+      <if test="act != null" >
+        act,
+      </if>
+      <if test="cTime != null" >
+        cTime,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        #{id,jdbcType=BIGINT},
+      </if>
+      <if test="userName != null" >
+        #{userName,jdbcType=VARCHAR},
+      </if>
+      <if test="department != null" >
+        #{department,jdbcType=VARCHAR},
+      </if>
+      <if test="company != null" >
+        #{company,jdbcType=VARCHAR},
+      </if>
+      <if test="mobile != null" >
+        #{mobile,jdbcType=VARCHAR},
+      </if>
+      <if test="uid != null" >
+        #{uid,jdbcType=VARCHAR},
+      </if>
+      <if test="act != null" >
+        #{act,jdbcType=INTEGER},
+      </if>
+      <if test="cTime != null" >
+        #{cTime,jdbcType=TIMESTAMP},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="poseidon.zhdj.db.qcj.model.SignUpModel" >
+    update signup
+    <set >
+      <if test="userName != null" >
+        userName = #{userName,jdbcType=VARCHAR},
+      </if>
+      <if test="department != null" >
+        department = #{department,jdbcType=VARCHAR},
+      </if>
+      <if test="company != null" >
+        company = #{company,jdbcType=VARCHAR},
+      </if>
+      <if test="mobile != null" >
+        mobile = #{mobile,jdbcType=VARCHAR},
+      </if>
+      <if test="uid != null" >
+        uid = #{uid,jdbcType=VARCHAR},
+      </if>
+      <if test="act != null" >
+        act = #{act,jdbcType=INTEGER},
+      </if>
+      <if test="cTime != null" >
+        cTime = #{cTime,jdbcType=TIMESTAMP},
+      </if>
+    </set>
+    where id = #{id,jdbcType=BIGINT}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="poseidon.zhdj.db.qcj.model.SignUpModel" >
+    update signup
+    set userName = #{userName,jdbcType=VARCHAR},
+      department = #{department,jdbcType=VARCHAR},
+      company = #{company,jdbcType=VARCHAR},
+      mobile = #{mobile,jdbcType=VARCHAR},
+      uid = #{uid,jdbcType=VARCHAR},
+      act = #{act,jdbcType=INTEGER},
+      cTime = #{cTime,jdbcType=TIMESTAMP}
+    where id = #{id,jdbcType=BIGINT}
+  </update>
+
+  <select id="selectByUid" resultMap="BaseResultMap" parameterType="java.lang.String" >
+    select
+    <include refid="Base_Column_List" />
+    from signup
+    where uid = #{uid,jdbcType=VARCHAR}
+  </select>
+
+</mapper>

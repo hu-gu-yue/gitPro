@@ -1,0 +1,51 @@
+[
+    {
+        "storeId": 1,
+        "storeName": "张家农家乐",
+        "isSelect": true,
+        "list": [
+            {
+                "productId": 1,
+                "productName": "烤全羊",
+                "imgSrc": "user/cart/icon_sheep_all.png",
+                "price": 88,
+                "number": 4,
+                "isSelect": true
+            },
+            {
+                "productId": 2,
+                "productName": "羊肉串",
+                "imgSrc": "user/cart/icon_sheep_all.png",
+                "price": 99,
+                "number": 1,
+                "useTime": "2017/10/01-2017/10/07",
+                "isSelect": true
+            }
+        ]
+    },
+    {
+        "storeId": 2,
+        "storeName": "小龙坎",
+        "isSelect": true,
+        "list": [
+            {
+                "productId": 3,
+                "productName": "鹅肠",
+                "imgSrc": "user/cart/icon_sheep_all.png",
+                "price": 38.33,
+                "number": 1,
+                "useTime": "2017/10/01-2017/10/07",
+                "isSelect": true
+            },
+            {
+                "productId": 4,
+                "productName": "烤乳猪",
+                "imgSrc": "user/cart/icon_sheep_all.png",
+                "price": 1199,
+                "number": 1,
+                "useTime": "2017/10/01-2017/10/07",
+                "isSelect": true
+            }
+        ]
+    }
+]

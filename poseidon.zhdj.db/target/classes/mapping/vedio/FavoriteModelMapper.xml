@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="poseidon.zhdj.db.video.dao.FavoriteModelMapper" >
+  <resultMap id="BaseResultMap" type="poseidon.zhdj.db.video.model.FavoriteModel" >
+    <id column="id" property="id" jdbcType="BIGINT" />
+    <result column="uid" property="uid" jdbcType="VARCHAR" />
+    <result column="type" property="type" jdbcType="INTEGER" />
+    <result column="objId" property="objId" jdbcType="BIGINT" />
+    <result column="cTime" property="cTime" jdbcType="TIMESTAMP" />
+    <result column="act" property="act" jdbcType="INTEGER" />
+
+    <result column="isLike" property="isLike" jdbcType="INTEGER" />
+    <result column="isSendGift" property="isSendGift" jdbcType="INTEGER" />
+    <result column="todayIsLike" property="todayIsLike" jdbcType="INTEGER" />
+    <result column="likeCount" property="likeCount" jdbcType="INTEGER" />
+    <result column="giftScore" property="giftScore" jdbcType="INTEGER" />
+  </resultMap>
+  <sql id="Base_Column_List" >
+    id, uid, `type`, objId, cTime,act
+  </sql>
+  <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="java.lang.Long" >
+    select 
+    <include refid="Base_Column_List" />
+    from favorite
+    where id = #{id,jdbcType=BIGINT}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Long" >
+    delete from favorite
+    where id = #{id,jdbcType=BIGINT}
+  </delete>
+  <insert id="insert" parameterType="poseidon.zhdj.db.video.model.FavoriteModel" >
+    insert into favorite (id, uid, `type`,
+      objId, cTime)
+    values (#{id,jdbcType=BIGINT}, #{uid,jdbcType=VARCHAR}, #{type,jdbcType=INTEGER},
+      #{objId,jdbcType=BIGINT}, #{cTime,jdbcType=TIMESTAMP},#{act,jdbcType=INTEGER},)
+  </insert>
+  <insert id="insertSelective" parameterType="poseidon.zhdj.db.video.model.FavoriteModel" >
+    insert into favorite
+    <trim prefix="(" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        id,
+      </if>
+      <if test="uid != null" >
+        uid,
+      </if>
+      <if test="type != null" >
+        `type`,
+      </if>
+      <if test="objId != null" >
+        objId,
+      </if>
+      <if test="cTime != null" >
+        cTime,
+      </if>
+      <if test="act != null" >
+        `act`,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        #{id,jdbcType=BIGINT},
+      </if>
+      <if test="uid != null" >
+        #{uid,jdbcType=VARCHAR},
+      </if>
+      <if test="type != null" >
+        #{type,jdbcType=INTEGER},
+      </if>
+      <if test="objId != null" >
+        #{objId,jdbcType=BIGINT},
+      </if>
+      <if test="cTime != null" >
+        #{cTime,jdbcType=TIMESTAMP},
+      </if>
+      <if test="act != null" >
+        #{act,jdbcType=INTEGER},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="poseidon.zhdj.db.video.model.FavoriteModel" >
+    update favorite
+    <set >
+      <if test="uid != null" >
+        uid = #{uid,jdbcType=VARCHAR},
+      </if>
+      <if test="type != null" >
+        `type` = #{type,jdbcType=INTEGER},
+      </if>
+      <if test="objId != null" >
+        objId = #{objId,jdbcType=BIGINT},
+      </if>
+      <if test="cTime != null" >
+        cTime = #{cTime,jdbcType=TIMESTAMP},
+      </if>
+      <if test="act != null" >
+        act = #{act,jdbcType=INTEGER},
+      </if>
+    </set>
+    where id = #{id,jdbcType=BIGINT}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="poseidon.zhdj.db.video.model.FavoriteModel" >
+    update favorite
+    set uid = #{uid,jdbcType=VARCHAR},
+      `type` = #{type,jdbcType=INTEGER},
+      objId = #{objId,jdbcType=BIGINT},
+      cTime = #{cTime,jdbcType=TIMESTAMP},
+      act = #{act,jdbcType=INTEGER}
+    where id = #{id,jdbcType=BIGINT}
+  </update>
+
+  <!-- 是否关注 -->
+  <select id="getFavoriteByUidAndVid" resultMap="BaseResultMap">
+    select
+    <include refid="Base_Column_List" />
+    from favorite
+    where objId = #{objId,jdbcType=BIGINT} AND uid = #{uid,jdbcType=VARCHAR} AND `type` = #{type,jdbcType=VARCHAR} AND act = #{act,jdbcType=VARCHAR}
+    limit 1
+  </select>
+
+  <!-- 查询数量及基本信息 -->
+  <select id="getFavoriteInfo" resultMap="BaseResultMap">
+    select
+      f.id,f.uid,f.objId,f.type,f.cTime,
+      (select count(*) from videolike vl WHERE vl.vid = f.objId) AS likeCount,
+      (select SUM(giftScore) from videogift vi WHERE vi.vid = f.objId) AS giftScore ,
+      (select count(1) from videolike vlk where vlk.vid = f.objId and vlk.uid = #{uid}) as isLike,
+      (SELECT count(*) from videogift vg where vg.uid = #{uid} AND vg.vid = f.objId) AS isSendGift,
+      (select count(1) from videolike where videolike.vid = f.objId and videolike.uid = #{uid} and DATE_FORMAT(videolike.cTime,'%Y-%c-%d') = DATE_FORMAT(NOW(),'%Y-%c-%d')) as todayIsLike
+    from favorite f , video v
+    where f.objId = v.vid AND f.uid = #{uid,jdbcType=VARCHAR} AND f.act = #{act,jdbcType=INTEGER}
+  </select>
+
+
+
+</mapper>

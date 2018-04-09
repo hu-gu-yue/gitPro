@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="95a4f081-d1e8-4993-a937-0d672bfc41ad" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <list id="9e841526-22f6-4901-ba63-ec61df89ba51" name="ignoreFiles" comment="ignoreFiles" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="VueJszxM" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="api.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/api/api.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="qylycss.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/css/qylycss.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="765" column="29" lean-forward="false" selection-start-line="765" selection-start-column="29" selection-end-line="765" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+              <folding>
+                <element signature="e#233#255#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/config/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="http.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/config/http.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="37" column="26" lean-forward="false" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+              <folding>
+                <element signature="e#279#306#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2057">
+              <caret line="130" column="2" lean-forward="false" selection-start-line="130" selection-start-column="2" selection-end-line="130" selection-end-column="2" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>initIncomeDetail</find>
+      <find>income-item</find>
+      <find>dayDesc</find>
+      <find>incomeWithdraw</find>
+      <find>incomeNum</find>
+      <find>substring</find>
+      <find>manager</find>
+      <find>reward-detail-top</find>
+      <find>wx1826fa8f9532aa92</find>
+      <find>wx</find>
+      <find>destination</find>
+      <find>/destination</find>
+      <find>#/destination</find>
+      <find>onItemClick</find>
+      <find>LYXXHResourceController.class</find>
+      <find>.scrollable .vux-tab-item</find>
+      <find>.vux-tab-item</find>
+      <find>vux-tab-item</find>
+      <find>camp-introduce</find>
+      <find>camp-desc</find>
+      <find>title</find>
+      <find>campInfo</find>
+      <find>we</find>
+      <find>wx9ee6d12489c79fbe</find>
+      <find>generalizeCode</find>
+      <find>/destination/content/1</find>
+      <find>modifyOrderStatus</find>
+      <find>sex</find>
+      <find>strategy</find>
+      <find>../images</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>景点</replace>
+      <replace>玩乐</replace>
+      <replace>o-webkit-line2</replace>
+      <replace>特产</replace>
+      <replace>business</replace>
+      <replace>business-operation</replace>
+      <replace>playDetail</replace>
+      <replace>specialDetail</replace>
+      <replace>scenicDetail</replace>
+      <replace>special</replace>
+      <replace>food</replace>
+      <replace>play</replace>
+      <replace>DestinationMock</replace>
+      <replace>did</replace>
+      <replace>rid</replace>
+      <replace>allCash</replace>
+      <replace>sid</replace>
+      <replace>let</replace>
+      <replace>share</replace>
+      <replace>_self.shareUploader</replace>
+      <replace>seq</replace>
+      <replace>Destination</replace>
+      <replace>query</replace>
+      <replace>destination</replace>
+      <replace>_self</replace>
+      <replace>volunteer</replace>
+      <replace>wx1826fa8f9532aa92</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\vue\vueJs\src\assets\images\qyly</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/views/share/publishShare.vue" />
+        <option value="$PROJECT_DIR$/src/views/destination/play.vue" />
+        <option value="$PROJECT_DIR$/src/views/business/play.vue" />
+        <option value="$PROJECT_DIR$/src/views/business/stay.vue" />
+        <option value="$PROJECT_DIR$/src/views/business/all.vue" />
+        <option value="$PROJECT_DIR$/src/views/destination/food.vue" />
+        <option value="$PROJECT_DIR$/src/views/destination/scenicSpot.vue" />
+        <option value="$PROJECT_DIR$/src/views/destination/special.vue" />
+        <option value="$PROJECT_DIR$/src/views/business/special.vue" />
+        <option value="$PROJECT_DIR$/src/views/business/stayDetail.vue" />
+        <option value="$PROJECT_DIR$/src/views/business/foodDetail.vue" />
+        <option value="$PROJECT_DIR$/src/views/business/playDetail.vue" />
+        <option value="$PROJECT_DIR$/src/views/business/scenicDetail.vue" />
+        <option value="$PROJECT_DIR$/static/webuploader-0.1.5/webuploader.css" />
+        <option value="$PROJECT_DIR$/src/views/business/specialDetail.vue" />
+        <option value="$PROJECT_DIR$/src/views/destination/moreDestination.vue" />
+        <option value="$PROJECT_DIR$/src/assets/css/destination/index.less" />
+        <option value="$PROJECT_DIR$/src/assets/css/business/index.less" />
+        <option value="$PROJECT_DIR$/src/views/business/food.vue" />
+        <option value="$PROJECT_DIR$/src/views/user/register.vue" />
+        <option value="$PROJECT_DIR$/src/components/common/timer.vue" />
+        <option value="$PROJECT_DIR$/src/views/destination/index.vue" />
+        <option value="$PROJECT_DIR$/src/views/user/userIncomeDetail.vue" />
+        <option value="$PROJECT_DIR$/src/views/user/volunteer/RewardDetail.vue" />
+        <option value="$PROJECT_DIR$/src/plugins/wxjsapi.js" />
+        <option value="$PROJECT_DIR$/src/views/user/userWallet.vue" />
+        <option value="$PROJECT_DIR$/src/views/user/userCash.vue" />
+        <option value="$PROJECT_DIR$/src/views/user/cart/StatusPay.vue" />
+        <option value="$PROJECT_DIR$/src/router/destination.js" />
+        <option value="$PROJECT_DIR$/src/components/common/leftMenu.vue" />
+        <option value="$PROJECT_DIR$/src/assets/css/destination/content.less" />
+        <option value="$PROJECT_DIR$/src/assets/css/business/businessDetail.less" />
+        <option value="$PROJECT_DIR$/src/views/business/reply.vue" />
+        <option value="$PROJECT_DIR$/src/views/destination/map.vue" />
+        <option value="$PROJECT_DIR$/src/views/destination/content.vue" />
+        <option value="$PROJECT_DIR$/src/views/business/index.vue" />
+        <option value="$PROJECT_DIR$/src/views/business/businessDetail.vue" />
+        <option value="$PROJECT_DIR$/src/views/user/transfer.vue" />
+        <option value="$PROJECT_DIR$/src/views/user/volunteer/applyVolunteer.vue" />
+        <option value="$PROJECT_DIR$/src/router/user.js" />
+        <option value="$PROJECT_DIR$/src/views/destination/stay.vue" />
+        <option value="$PROJECT_DIR$/src/views/user/login.vue" />
+        <option value="$PROJECT_DIR$/src/api/api.js" />
+        <option value="$PROJECT_DIR$/src/config/config.js" />
+        <option value="$PROJECT_DIR$/src/router/index.js" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/App.vue" />
+        <option value="$PROJECT_DIR$/src/views/index.vue" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/assets/css/qylycss.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1932" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="zhdjM">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VueJszxM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VueJszxM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VueJszxM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VueJszxM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VueJszxM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VueJszxM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VueJszxM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VueJszxM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="SearchEverywhereHistoryKey" value="tab.vue&#9;FILE&#9;file://E:/svn/poseidon/yunshanCamp/trunk/VueJszxM/src/test/Tab.vue&#10;app.v&#9;FILE&#9;file://F:/vuePro/VueJszxM/src/App.vue&#10;main.js&#9;FILE&#9;file://F:/vuePro/VueJszxM/src/main.js&#10;cart-order&#9;null&#9;null&#10;webServer&#9;null&#9;null&#10;index&#9;FILE&#9;file://F:/vuePro/VueJszxM/config/index.js&#10;login&#9;FILE&#9;file://F:/vuePro/VueJszxM/src/views/user/login.vue&#10;main&#9;FILE&#9;file://F:/vuePro/VueJszxM/src/main.js&#10;app&#9;FILE&#9;file://F:/vuePro/VueJszxM/src/App.vue&#10;index.js&#9;FILE&#9;file://F:/vuePro/VueJszxM/config/index.js&#10;$percent&#9;null&#9;null&#10;webuploader.js&#9;FILE&#9;file://F:/vuePro/VueJszxM/static/webuploader-0.1.5/webuploader.min.js&#10;web&#9;FILE&#9;file://F:/vuePro/VueJszxM/src/assets/webuploader-0.1.5/webuploader.js" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\vuePro\VueJszxM\src\assets" />
+      <recent name="D:\vue\vueJs\src\test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\svn\poseidon\zhdj\trunk\zhdjM\src\assets\images" />
+      <recent name="E:\svn\poseidon\yunshanCamp\trunk\VueJszxM\src\assets\images\user" />
+      <recent name="F:\vuePro\VueJszxM\src\components\common" />
+      <recent name="F:\vuePro\VueJszxM\src\views\user" />
+      <recent name="F:\vuePro\VueJszxM\src\assets\images\user" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="false" name="dev" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="D:/APP/nodejs/node" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="build" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="D:/APP/nodejs/node" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="npm.dev" />
+      <item index="1" class="java.lang.String" itemvalue="npm.build" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="npm.dev" />
+        <item index="1" class="java.lang.String" itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\svn\poseidon\zhdj\trunk\zhdjM" />
+          <option name="myCopyRoot" value="E:\svn\poseidon\zhdj\trunk\zhdjM" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\svn\poseidon\zhdj\trunk\zhdjM" />
+          <option name="myCopyRoot" value="E:\svn\poseidon\zhdj\trunk\zhdjM" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95a4f081-d1e8-4993-a937-0d672bfc41ad" name="Default" comment="" />
+      <changelist id="9e841526-22f6-4901-ba63-ec61df89ba51" name="ignoreFiles" comment="" />
+      <created>1507519991937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507519991937</updated>
+      <workItem from="1507520000100" duration="1511000" />
+      <workItem from="1507603573562" duration="14198000" />
+      <workItem from="1507691318223" duration="2205000" />
+      <workItem from="1507771264798" duration="599000" />
+      <workItem from="1507777755364" duration="7243000" />
+      <workItem from="1508117380437" duration="69433000" />
+      <workItem from="1508469017569" duration="14603000" />
+      <workItem from="1508719004626" duration="70066000" />
+      <workItem from="1509066791114" duration="13029000" />
+      <workItem from="1509323931504" duration="10879000" />
+      <workItem from="1509413351824" duration="762000" />
+      <workItem from="1509419487358" duration="255000" />
+      <workItem from="1509522818471" duration="12644000" />
+      <workItem from="1509967097969" duration="85895000" />
+      <workItem from="1510193272776" duration="33978000" />
+      <workItem from="1511139112908" duration="25609000" />
+      <workItem from="1511246671030" duration="213000" />
+      <workItem from="1511314925942" duration="29439000" />
+      <workItem from="1511509928230" duration="2790000" />
+      <workItem from="1511753833538" duration="11140000" />
+      <workItem from="1511780819925" duration="548000" />
+      <workItem from="1511782577081" duration="74000" />
+      <workItem from="1511782837272" duration="771000" />
+      <workItem from="1511833606358" duration="3636000" />
+      <workItem from="1511849380421" duration="5028000" />
+      <workItem from="1511939930974" duration="1651000" />
+      <workItem from="1512028067935" duration="243000" />
+      <workItem from="1512028490508" duration="30000" />
+      <workItem from="1512029427766" duration="5125000" />
+      <workItem from="1512453829296" duration="624000" />
+      <workItem from="1512716476228" duration="747000" />
+      <workItem from="1512956987038" duration="956000" />
+      <workItem from="1513326479602" duration="729000" />
+      <workItem from="1513738686297" duration="34394000" />
+      <workItem from="1513930021889" duration="4644000" />
+      <workItem from="1514162258121" duration="92849000" />
+      <workItem from="1514767650186" duration="45964000" />
+      <workItem from="1515651113156" duration="31907000" />
+      <workItem from="1516246289071" duration="209000" />
+      <workItem from="1516246648779" duration="20865000" />
+      <workItem from="1516591320922" duration="21219000" />
+      <workItem from="1516694052184" duration="3151000" />
+      <workItem from="1516861047598" duration="1526000" />
+      <workItem from="1516863871915" duration="635000" />
+      <workItem from="1516933474041" duration="6232000" />
+      <workItem from="1517275991440" duration="1853000" />
+      <workItem from="1517279273537" duration="1414000" />
+      <workItem from="1517294890503" duration="8913000" />
+      <workItem from="1517370432124" duration="11101000" />
+      <workItem from="1517470832769" duration="18685000" />
+      <workItem from="1517792065817" duration="1815000" />
+      <workItem from="1517879631527" duration="35146000" />
+      <workItem from="1518160774353" duration="2232000" />
+      <workItem from="1518164939195" duration="10000" />
+      <workItem from="1521098031485" duration="2925000" />
+      <workItem from="1521191563366" duration="2343000" />
+      <workItem from="1521425629026" duration="27458000" />
+      <workItem from="1521698617155" duration="1131000" />
+      <workItem from="1521701725432" duration="1384000" />
+      <workItem from="1521704882159" duration="1790000" />
+      <workItem from="1521711786312" duration="745000" />
+      <workItem from="1521767598316" duration="1916000" />
+      <workItem from="1521787629380" duration="22000" />
+      <workItem from="1521794559938" duration="744000" />
+      <workItem from="1522026642180" duration="88000" />
+      <workItem from="1522032905301" duration="3824000" />
+      <workItem from="1522052720371" duration="595000" />
+      <workItem from="1522138748567" duration="1355000" />
+      <workItem from="1522199285674" duration="3285000" />
+      <workItem from="1522226484867" duration="4059000" />
+      <workItem from="1522289867524" duration="258000" />
+      <workItem from="1522291978204" duration="41000" />
+      <workItem from="1522306099871" duration="2909000" />
+      <workItem from="1522309081223" duration="362000" />
+      <workItem from="1522375829012" duration="14918000" />
+      <workItem from="1522630495451" duration="2746000" />
+      <workItem from="1522714184330" duration="12697000" />
+      <workItem from="1523153889592" duration="522000" />
+      <workItem from="1523157264450" duration="1468000" />
+      <workItem from="1523158747558" duration="3074000" />
+    </task>
+    <task id="LOCAL-00112" summary="头像头像">
+      <created>1517471966530</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1517471966530</updated>
+    </task>
+    <task id="LOCAL-00113" summary="头像头像">
+      <created>1517472068660</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1517472068661</updated>
+    </task>
+    <task id="LOCAL-00114" summary="头像头像样式">
+      <created>1517476763789</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1517476763789</updated>
+    </task>
+    <task id="LOCAL-00115" summary="头像头像样式">
+      <created>1517477345205</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1517477345205</updated>
+    </task>
+    <task id="LOCAL-00116" summary="头像头像样式">
+      <created>1517477593431</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1517477593431</updated>
+    </task>
+    <task id="LOCAL-00117" summary="修改样式">
+      <created>1517543718602</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1517543718602</updated>
+    </task>
+    <task id="LOCAL-00118" summary="修改样式">
+      <created>1517557895573</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1517557895574</updated>
+    </task>
+    <task id="LOCAL-00119" summary="营地首页加一个搜索">
+      <created>1517561858637</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1517561858637</updated>
+    </task>
+    <task id="LOCAL-00120" summary="营地首页加ruwomen">
+      <created>1517562946889</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1517562946890</updated>
+    </task>
+    <task id="LOCAL-00121" summary="push改成replace&#10;让tab页签返回到上一级页面">
+      <created>1517795419549</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1517795419550</updated>
+    </task>
+    <task id="LOCAL-00122" summary="加一个标志位">
+      <created>1517967951437</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1517967951438</updated>
+    </task>
+    <task id="LOCAL-00123" summary="样式问题">
+      <created>1517974309498</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1517974309498</updated>
+    </task>
+    <task id="LOCAL-00124" summary="增加分享">
+      <created>1518074204145</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1518074204145</updated>
+    </task>
+    <task id="LOCAL-00125" summary="增加分享">
+      <created>1518075007137</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1518075007137</updated>
+    </task>
+    <task id="LOCAL-00126" summary="增加分享">
+      <created>1518159030075</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1518159030075</updated>
+    </task>
+    <task id="LOCAL-00127" summary="增加分享">
+      <created>1518159341182</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1518159341182</updated>
+    </task>
+    <task id="LOCAL-00128" summary="增加分享">
+      <created>1518162563175</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1518162563187</updated>
+    </task>
+    <task id="LOCAL-00129" summary="增加分享志愿者参数">
+      <created>1521101313701</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1521101313702</updated>
+    </task>
+    <task id="LOCAL-00130" summary="志愿者收入、收入明细、提现申请">
+      <created>1521451997180</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1521451997180</updated>
+    </task>
+    <task id="LOCAL-00131" summary="志愿者 收入明细">
+      <created>1521594498739</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1521594498739</updated>
+    </task>
+    <task id="LOCAL-00132" summary="志愿者 收入明细">
+      <created>1521711927540</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1521711927540</updated>
+    </task>
+    <task id="LOCAL-00133" summary="志愿者 收入明细">
+      <created>1521768747656</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1521768747657</updated>
+    </task>
+    <task id="LOCAL-00134" summary="志愿者 收入明细">
+      <created>1521768778601</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1521768778601</updated>
+    </task>
+    <task id="LOCAL-00135" summary="换名字、、、、、">
+      <created>1521794609651</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1521794609652</updated>
+    </task>
+    <task id="LOCAL-00136" summary="换微信、、、、、">
+      <created>1522033278040</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1522033278040</updated>
+    </task>
+    <task id="LOCAL-00137" summary="换微信、、、、、">
+      <created>1522034042966</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1522034042966</updated>
+    </task>
+    <task id="LOCAL-00138" summary="修该样式">
+      <created>1522047243369</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1522047243369</updated>
+    </task>
+    <task id="LOCAL-00139" summary="修改提现次数">
+      <created>1522053313223</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1522053313223</updated>
+    </task>
+    <task id="LOCAL-00140" summary="修改首页链接">
+      <created>1522139522149</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1522139522149</updated>
+    </task>
+    <task id="LOCAL-00141" summary="首页登录样式">
+      <created>1522200480502</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1522200480502</updated>
+    </task>
+    <task id="LOCAL-00142" summary="首页gaigeng更改">
+      <created>1522228361854</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1522228361855</updated>
+    </task>
+    <task id="LOCAL-00143" summary="修改样式">
+      <created>1522306149475</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1522306149475</updated>
+    </task>
+    <task id="LOCAL-00144" summary="修改样式">
+      <created>1522308911878</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1522308911878</updated>
+    </task>
+    <task id="LOCAL-00145" summary="修改样式">
+      <created>1522381441894</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1522381441895</updated>
+    </task>
+    <task id="LOCAL-00146" summary="修改图片路径">
+      <created>1522383240121</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1522383240121</updated>
+    </task>
+    <task id="LOCAL-00147" summary="修改样式">
+      <created>1522392942147</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1522392942147</updated>
+    </task>
+    <task id="LOCAL-00148" summary="更改志愿者分享方式">
+      <created>1522397336238</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1522397336238</updated>
+    </task>
+    <task id="LOCAL-00149" summary="更改志愿者分享方式">
+      <created>1522398043027</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1522398043027</updated>
+    </task>
+    <task id="LOCAL-00150" summary="更改志愿者分享方式">
+      <created>1522399122036</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1522399122036</updated>
+    </task>
+    <task id="LOCAL-00151" summary="更改志愿者分享方式">
+      <created>1522400091034</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1522400091034</updated>
+    </task>
+    <task id="LOCAL-00152" summary="更改志愿者分享方式">
+      <created>1522401292173</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1522401292173</updated>
+    </task>
+    <task id="LOCAL-00153" summary="更改志愿者分享方式">
+      <created>1522720368693</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1522720368694</updated>
+    </task>
+    <task id="LOCAL-00154" summary="更改男女问题">
+      <created>1522809110445</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1522809110445</updated>
+    </task>
+    <task id="LOCAL-00155" summary="加页码。。。">
+      <created>1522833795820</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1522833795820</updated>
+    </task>
+    <task id="LOCAL-00156" summary="加页码。。。">
+      <created>1522834090846</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1522834090846</updated>
+    </task>
+    <task id="LOCAL-00157" summary="搭建环境">
+      <created>1523158730987</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1523158730988</updated>
+    </task>
+    <task id="LOCAL-00158" summary="搭建环境">
+      <created>1523159289234</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1523159289234</updated>
+    </task>
+    <task id="LOCAL-00159" summary="搭建环境">
+      <created>1523159307088</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1523159307088</updated>
+    </task>
+    <task id="LOCAL-00160" summary="搭建环境">
+      <created>1523159335326</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1523159335326</updated>
+    </task>
+    <option name="localTasksCounter" value="161" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="864076000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1932" height="1056" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25871173" sideWeight="0.6752827" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.49788806" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5021119" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3716143" sideWeight="0.85480464" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21343446" sideWeight="0.44508976" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25871173" sideWeight="0.32471728" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.49788806" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997833" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28602383" sideWeight="0.49788806" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
+    <MESSAGE value="头像头像" />
+    <MESSAGE value="头像头像样式" />
+    <MESSAGE value="营地首页加一个搜索" />
+    <MESSAGE value="营地首页加ruwomen" />
+    <MESSAGE value="push改成replace&#10;让tab页签返回到上一级页面" />
+    <MESSAGE value="加一个标志位" />
+    <MESSAGE value="样式" />
+    <MESSAGE value="样式问题" />
+    <MESSAGE value="增加分享" />
+    <MESSAGE value="增加分享志愿者参数" />
+    <MESSAGE value="志愿者收入、收入明细、提现申请" />
+    <MESSAGE value="志愿者 收入明细" />
+    <MESSAGE value="换名字、、、、、" />
+    <MESSAGE value="换微信、、、、、" />
+    <MESSAGE value="修该样式" />
+    <MESSAGE value="修改提现次数" />
+    <MESSAGE value="修改首页链接" />
+    <MESSAGE value="首页登录样式" />
+    <MESSAGE value="首页gaigeng更改" />
+    <MESSAGE value="修改图片路径" />
+    <MESSAGE value="修改样式" />
+    <MESSAGE value="更改志愿者分享方式" />
+    <MESSAGE value="更改男女问题" />
+    <MESSAGE value="加页码。。。" />
+    <MESSAGE value="搭建环境" />
+    <option name="LAST_COMMIT_MESSAGE" value="搭建环境" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/views/user/userWallet.vue" />
+    <entry file="file://$PROJECT_DIR$/src/assets/images/user/logo.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/assets/images/user/index_back.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/views/user/cart/StatusPay.vue" />
+    <entry file="file://$PROJECT_DIR$/src/router/destination.js" />
+    <entry file="file://$PROJECT_DIR$/src/views/user/CampOrder.vue" />
+    <entry file="file://$PROJECT_DIR$/src/test/Tab.vue" />
+    <entry file="file://$PROJECT_DIR$/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/css/business/businessDetail.less" />
+    <entry file="file://$PROJECT_DIR$/src/assets/css/destination/content.less" />
+    <entry file="file://$PROJECT_DIR$/src/views/destination/index.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/business/reply.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/business/scenicDetail.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/destination/map.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/destination/content.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/common/leftMenu.vue" />
+    <entry file="file://$PROJECT_DIR$/src/plugins/wxjsapi.js" />
+    <entry file="file://$PROJECT_DIR$/src/views/user/cart/WeixinPay.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/business/businessDetail.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/user/transfer.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/user/answerQuestion.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/user/forgetPwd.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/user/UserOrder.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/user/bindMobile.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/user/CampOrderDetail.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/user/OrderQrcode.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/user/volunteer/applyVolunteer.vue" />
+    <entry file="file://$PROJECT_DIR$/src/router/user.js" />
+    <entry file="file://$PROJECT_DIR$/src/views/destination/food.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/destination/special.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/destination/stay.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/user/login.vue" />
+    <entry file="file://$PROJECT_DIR$/src/api/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/user/register.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/business/index.vue" />
+    <entry file="file://$PROJECT_DIR$/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <element signature="e#233#255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plugins/cookieOper.js" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/test/hot-map.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/test/common/bg-no-data-qyly.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/test/common/icon-hot-d.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/test/common/icon-index-d.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/test/icon-search.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/css/qylycss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="765" column="29" lean-forward="false" selection-start-line="765" selection-start-column="29" selection-end-line="765" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2057">
+          <caret line="130" column="2" lean-forward="false" selection-start-line="130" selection-start-column="2" selection-end-line="130" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="26" lean-forward="false" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+          <folding>
+            <element signature="e#279#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
